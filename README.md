@@ -1,9 +1,9 @@
 # biblio-retrato. Un ejercicio de Humanidades Digitales
 
-Proyecto de visualización que busca complementar los datos visuales de una imagen fotográfica (autorretrato) con los metadatos de una base bibliográfica personal. Idealmente, es un proyecto de largo aliento, donde los cambios de cada año en el rostro y expresiones, se traslapan con las lecturas hechas a lo largo de ese periodo de tiempo. Para este proposito usaré mi propia base de datos de Zotero cuyas primeras entradas datan del 2012. Es un proyecto híbrido que desarrollaría herramientas de minería y visualización para Zotero**, así como galerías en web que superpongan esas visualizaciones con retratos fotográficos.
+Proyecto de visualización que busca complementar los datos visuales de una imagen fotográfica (autorretrato) con los metadatos de una base bibliográfica personal. Idealmente, es un proyecto de largo aliento, donde los cambios de cada año en el rostro y expresiones, se traslapan con las lecturas hechas a lo largo de ese periodo de tiempo. Para este proposito usaré mi propia base de datos de Zotero cuyas primeras entradas datan del 2012. Es un proyecto híbrido que desarrollaría herramientas de minería y visualización para Zotero[^1], así como galerías en web que superpongan esas visualizaciones con retratos fotográficos.
 
-___
-** Herramientas como Paper Machine y Zotero Voyant Export no han sido actualizadas a las últimas versiones de Zotero pero sus códigos están disponibles en Github.
+[^1]: Herramientas como Paper Machine y Zotero Voyant Export no han sido actualizadas a las últimas versiones de Zotero pero sus códigos están disponibles en Github. https://github.com/papermachines/papermachines; https://github.com/corajr/zotero-voyant-export/
+
 
 
 
