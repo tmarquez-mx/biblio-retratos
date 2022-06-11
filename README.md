@@ -4,9 +4,6 @@ Proyecto de visualización que busca complementar los datos visuales de una imag
 
 [^1]: Herramientas como Paper Machine y Zotero Voyant Export no han sido actualizadas a las últimas versiones de Zotero pero sus códigos están disponibles en Github. https://github.com/papermachines/papermachines; https://github.com/corajr/zotero-voyant-export/
 
-
-
-
 ## Objetivos
 1. Explorar en los tipos de e-datos que conforman la identidad de una persona.
 2. Elaborar herramientas de minería de datos y visualización para Zotero web, a fin de contruir trayectorias de uso. 
@@ -19,3 +16,9 @@ Proyecto de visualización que busca complementar los datos visuales de una imag
 Proyectos en HD: 
 1. “Intercambios oceánicos” https://oceanicexchanges.org/mx/ 
 2. “I ♥ E-Poetry” https://iloveepoetry.org/
+## Sitios en revisión
+1. https://vispo.com/index.html  (animación)
+2. https://www.usandizaga.com/design/pinacogramas-y-caligramas-retratos-con-letras/![imagen](https://user-images.githubusercontent.com/69394840/173201608-666907ba-def1-455e-8030-35f75e47067d.png) (retratos con letras)
+3. https://wordart.com/  (Online cloud creator)
+4. 
+
