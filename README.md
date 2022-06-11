@@ -20,5 +20,4 @@ Proyectos en HD:
 1. https://vispo.com/index.html  (animación)
 2. https://www.usandizaga.com/design/pinacogramas-y-caligramas-retratos-con-letras/![imagen](https://user-images.githubusercontent.com/69394840/173201608-666907ba-def1-455e-8030-35f75e47067d.png) (retratos con letras)
 3. https://wordart.com/  (Online cloud creator)
-4. 
 
