@@ -31,26 +31,44 @@ Proyectos en HD:
 1. “Intercambios oceánicos” https://oceanicexchanges.org/mx/ 
 2. “I ♥ E-Poetry” https://iloveepoetry.org/
 ## Herramientas
+Biblio-retrato, deberá hacer uso de Zotero y de OpenRefine, pues el primero contiene el corpus que se usará y el segundo es una herramienta para depurar los datos, por ello no se considerarán aquí como herramientas por separado.
+
+Consideraré como herramientas, aquellas que traduzcan o transformar datos, como las herramientas visualizadoras. Siendo el concepto que el usuario de Zotero pueda directamente -a través de plugins- generar visualizaciones de analíticas a partir de  su(s) bases bibliográficas, para superponerlas con fotografías que suba a través de la web, de donde también bajará el biblio.retrato, las herramientas elegidas quizán deban ser modificadas para tal fin o desarrolladas.
+
+Voyant Tools, recibirá los textos desde un .CSV para generar las analíticas y las visualizaciones. Extisten ya dos plugins sin mantenimiento (Ver nota al pie 2). La tarea es actualizarlo a la versión actual de Zotero.
+
+Palladio, es otra herramienta de visualización de archivos .CSV que complementaria la galería de Voyant permitiendo mapear y conectar dos datos formando conjuntos.
+
+La tercera  herramienta o código, deberá permitir recibir a través de una página web las visualizaciones de los plugins de Voyant y Palladio, así como las fotos que suba el usuario y hacer la superposición de ambas imágenes a través de IA. Habrá una galería con opciones preestablecidas de acuerdo al gráfico (nube, mapa, barras, etc.) y al encuadre de la foto. Finalmente, deberá devolver el biblio-retrato para ser bajado por el usuario. 
+
+Ningún elemento ni objeto digital (i.e. archivos .csv; .svg; .jpg; .png, etc.) se conservará en servidores por lo que los datos del usuario estarán plenamente seguros y libres de todo uso o almacenamiento indebido.
 
 
 
 
-## Recursos en revisión
+## Recursos en revisión (en construcción)
 1. https://vispo.com/index.html  (animación)
 2. https://www.usandizaga.com/design/pinacogramas-y-caligramas-retratos-con-letras/![imagen](https://user-images.githubusercontent.com/69394840/173201608-666907ba-def1-455e-8030-35f75e47067d.png) (retratos con letras)
 3. https://wordart.com/  (Online cloud creator)
 4. https://openrefine.org
 5. https://voyant-tools.org/?corpus=451e87665270278b3512bc72bbe3472c&panels=cirrus,reader,trends,summary,contexts
-6.
+
 ## Licencia
-Todos los productos y servicios del proyecto son de acceso abierto
+<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
+
+<img width="965" alt="Captura de Pantalla 2022-06-11 a la(s) 21 00 29" src="https://user-images.githubusercontent.com/69394840/173211143-62becfaf-af07-4c53-9b94-302b48ec98c8.png">
+
+
+
 ## Cómo citar
 Márquez, T. (2022), Biblio-retrato, https://github.com/tmarquez-mx/biblio-retrato/edit/main/README.md
 ## Acceso y sustentabilidad
 La aplicacación estará alojada en un sitio institucional y los datos que se reciban a través del sistema (como fotografías personales y analíticas), no se conservarán como parte de la protección de los datos personales.
-## Procedimiento
+## Procedimiento para maqueta (en construcción)
 1. Limpieza de la base Zotero con OpenRefine 
 2. Separación del corpus en las columnas de un CSV utilizando delimitadores.
-3. Extracción de columnas: título; autor; fechas; lugar de edición; subcolección
-
-
+3. Extracción de columnas: título; autor; fechas; lugar de edición; subcolección. Separación del campo autor para extraer solo apellidos.
+4. Generar en Palladio y Voyant visualizaciones a partir del archivos .CSV depurado
+5. Remover fondo de las imágenes .SVG  con removeBG
+6. Capturar foto retratos
+7. Fundir ambas imágenes
