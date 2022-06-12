@@ -49,6 +49,8 @@ Ningún elemento ni objeto digital (i.e. archivos .csv; .svg; .jpg; .png, etc.) 
 3. https://wordart.com/  (Online cloud creator)
 4. https://openrefine.org
 5. https://voyant-tools.org/?corpus=451e87665270278b3512bc72bbe3472c&panels=cirrus,reader,trends,summary
+6. http://musingsaboutlibrarianship.blogspot.com/2019/09/the-rise-of-new-citation-indexes-and_5.html
+
 ## Acceso y sustentabilidad
 La aplicacación estará alojada en un sitio institucional y los datos que se reciban a través del sistema (como fotografías personales y analíticas), no se conservarán como parte de la protección de los datos personales.
 ## Productos esperables
