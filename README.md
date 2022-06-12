@@ -1,14 +1,12 @@
 # BIBLIO RETRATO. Un ejercicio de Humanidades Digitales
 
-Proyecto de visualización que busca complementar los datos visuales de una imagen fotográfica (autorretrato) con los metadatos de una base bibliográfica personal. Idealmente, es un proyecto de largo aliento, donde los cambios de cada año en el rostro y expresiones, se traslapan con las lecturas hechas a lo largo de ese periodo de tiempo. Para este proposito usaré mi propia base de datos de Zotero cuyas primeras entradas datan del 2012. Es un proyecto híbrido que desarrollaría herramientas de minería y visualización para Zotero[^1], así como galerías en web que superpongan esas visualizaciones con retratos fotográficos.
+Proyecto de visualización que busca complementar los datos visuales de una imagen fotográfica (autorretrato) con las visualizaciones de los metadatos y analíticas de una base bibliográfica personal (o grupal). Idealmente, es un proyecto de largo aliento, donde los cambios de cada año en el rostro y expresiones, se traslapan con las lecturas hechas a lo largo de ese periodo de tiempo. Para este propósito usaré mi propia base de datos de Zotero cuyas primeras entradas datan del 2012. Es un proyecto híbrido que desarrollaría herramientas de minería y visualización para Zotero[^1], así como galerías en web que superpongan esas visualizaciones con retratos fotográficos a través de IA.
 
 [^1]: Herramientas como Paper Machine y Zotero Voyant Export no han sido actualizadas a las últimas versiones de Zotero pero sus códigos están disponibles en Github. https://github.com/papermachines/papermachines; https://github.com/corajr/zotero-voyant-export/
-
 ## Objetivos
 1. Explorar en los tipos de e-datos que conforman la identidad de una persona.
 2. Elaborar herramientas de minería de datos y visualización para Zotero web, a fin de contruir trayectorias de uso. 
 3. Crear visualizaciones que de manera estética a través de autorretarto, interroguen los vacíos de la fotografía y el lugar de la data-identidad
-
 ## Equipo
 1. Teresa Marquez. Responsable
 2. Un programador.
@@ -42,10 +40,6 @@ Palladio, es otra herramienta de visualización de archivos .CSV que complementa
 La tercera  herramienta o código, deberá permitir recibir a través de una página web las visualizaciones de los plugins de Voyant y Palladio, así como las fotos que suba el usuario y hacer la superposición de ambas imágenes a través de IA. Habrá una galería con opciones preestablecidas de acuerdo al gráfico (nube, mapa, barras, etc.) y al encuadre de la foto. Finalmente, deberá devolver el biblio-retrato para ser bajado por el usuario. 
 
 Ningún elemento ni objeto digital (i.e. archivos .csv; .svg; .jpg; .png, etc.) se conservará en servidores por lo que los datos del usuario estarán plenamente seguros y libres de todo uso o almacenamiento indebido.
-
-
-
-
 ## Recursos en revisión (en construcción)
 1. https://vispo.com/index.html  (animación)
 2. https://www.usandizaga.com/design/pinacogramas-y-caligramas-retratos-con-letras/![imagen](https://user-images.githubusercontent.com/69394840/173201608-666907ba-def1-455e-8030-35f75e47067d.png) (retratos con letras)
