@@ -66,3 +66,5 @@ La aplicacación estará alojada en un sitio institucional y los datos que se re
 5. Remover fondo de las imágenes .SVG  con removeBG
 6. Capturar foto retratos
 7. Fundir ambas imágenes
+## Productos esperables
+Al ser el primer proyecto de HD que se realizará en la Ibero, herramientas de software que se desarrollen, sinergias, infraestructura, metodologías y procesos (incluidos los de documentación) serán en sí mismos productos de la investigación. Como resultado final se pueden considerar participaciones en reuniones académicas y al menos dos artículos académicos y una exposición multimedia donde se mostrarán fotos impresas y en pantalla, así como animaciones del proceso. La página web de biblio-retratos contendrá además toda la documentación del proyecto lo que en sí mismo generará aprendizaje y antecedentes para buenas prácticas de la investigación en la Ibero. 
