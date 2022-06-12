@@ -30,6 +30,11 @@ Se trata de un punto crítico pues el biblio-retrato depende de las actualizacio
 Proyectos en HD: 
 1. “Intercambios oceánicos” https://oceanicexchanges.org/mx/ 
 2. “I ♥ E-Poetry” https://iloveepoetry.org/
+## Herramientas
+
+
+
+
 ## Recursos en revisión
 1. https://vispo.com/index.html  (animación)
 2. https://www.usandizaga.com/design/pinacogramas-y-caligramas-retratos-con-letras/![imagen](https://user-images.githubusercontent.com/69394840/173201608-666907ba-def1-455e-8030-35f75e47067d.png) (retratos con letras)
