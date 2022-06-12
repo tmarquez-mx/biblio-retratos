@@ -20,7 +20,7 @@ Por otro lado, el dato y la fotografia son dos áreas de mi interés académico.
 4. Desarrollo de metodologías para la documentación de procesos de trabajo y su apertura pública
 5. Incursión en el terreno de las Humanidades Digitales y en los principios FAIR de ciencia abierta
 6. Desarrollo de herramientas para la visualización de corpus bibliográficos que se abrirán a una comunudad global de usuarios de Zotero
-7. Reflexión sobre cómo los datos y la experiencia de consulta de fuentes nos constituyen (identificación de patrones y trayectorias)
+7. Reflexión sobre cómo los datos y la experiencia de consulta de fuentes nos constituyen (identificación y análisis de patrones y trayectorias)
 
 
 ## Estrategia de documentacion
