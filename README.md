@@ -13,6 +13,16 @@ Proyecto de visualización que busca complementar los datos visuales de un retra
 Siempre es difícil precisar con exactitud, de dónde o cómo nace un proyecto. Debo decir que soy una usuaria entusiasta  de Zotero por sus múltiples posibilidades de adecuarse flujos de trabajo académico manejados desde diferentes herramientas. En ese sentido, es muy importante para mí que mis estudiantes identifiquen sus bondades y beneficios. No he tenido mucha suerte en ello y por lo mismo incorporar Zotero en un proyecto de HD resulta una oportunidad para incentivar su uso.
 
 Por otro lado, el dato y la fotografia son dos áreas de mi interés académico. Aunque parezcan opuestos por asociarse uno a lo abstracto-digital y la otra a lo concreto-material (el referente real), ambos conforman materiales para la representación de la persona. De modo que ponerlos a dialogar es una oportunidad para explorar sus posibilidades epistémicas en relacion a las identidades hibridas (análogas y digitales) que se forjan en estos tiempos. Por ultimo, siempre he tenido la inquietud de mostrar que el conocimiento tiene tambien un correlato sensorial y, por ende, estético que la academia debe sacar a la luz.  
+## Justificación
+1. Estímulo a los estudiantes a sistematizar su información bibliográfica a través de software
+2. Incentivo a los profesores e investigadores a monitorear y evaluar sus fuentes de lectura
+3. Formación de un grupo de trabajo interdisciplinario
+4. Desarrollo de metodologías para la documentación de procesos de trabajo y su apertura pública
+5. Incursión en el terreno de las Humanidades Digitales y en los principios FAIR de ciencia abierta
+6. Desarrollo de herramientas para la visualización de corpus bibliográficos que se abrirán a una comunudad global de usuarios de Zotero
+7. Reflexión sobre cómo los datos y la experiencia de consulta de fuentes nos constituyen (identificación de patrones y trayectorias)
+
+
 ## Estrategia de documentacion
 El proyecto se documentará a través de Github y siguiendo la Guía de buenas prácticas para la elaboración y evaluación de proyectos de HD y Checklist de la Red HD. http://humanidadesdigitales.net/guia-de-buenas-practicas-para-la-elaboracion-y-evaluacion-de-proyectos-de-humanidades-digitales-y-checklist/
 ## Revisión y evaluación académica
