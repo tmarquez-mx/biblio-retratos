@@ -1,5 +1,5 @@
-# Biblio-retrato. ¿Somos lo que leemos? 
-## Un ejercicio de Humanidades Digitales 
+# Biblio-retrato. Un proyecto de Humanidades Digitales  ![imagen](https://user-images.githubusercontent.com/69394840/173283398-25a352a4-c7a2-4acb-926e-824d7f40ec95.png)
+
 Proyecto de visualización que busca complementar los datos visuales de un retrato fotográfico con los metadatos de un gestor de referencias bibliográficas.  Esta superposición explora digitalmente cierta representación identitaria que responde a la pregunta ¿somos lo que leemos? ¿en dónde se ubica ese cúmulo de lecturas bibliográficas respecto a nuestra propia representación y presentación? Para este proposito usaré mi propia base de datos de Zotero cuyas primeras entradas datan del 2012. Es un proyecto híbrido que desarrollará herramientas de minería de textos y visualización para Zotero [^1],así como galerías en web que superpondrán (overlap) esas visualizaciones que se generarán desde el gestor bibliográfico, con retratos fotográficos subidos por la web obteniendo por el mismo medio el biblio-retrato en formato .png o .jpg
 [^1]: Herramientas como Paper Machine y Zotero Voyant Export no han sido actualizadas a las últimas versiones de Zotero pero sus códigos están disponibles en Github. https://github.com/papermachines/papermachines; https://github.com/corajr/zotero-voyant-export/
 ## Objetivos
