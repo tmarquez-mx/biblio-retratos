@@ -43,6 +43,17 @@ Se trata de un punto crítico pues el biblio-retrato depende de las actualizacio
 Proyectos en HD: 
 1. “Intercambios oceánicos” https://oceanicexchanges.org/mx/  En la lectura del proyecto, se encontró la realización de un taller donde se generaron mapas a partir de bases de Zotero previamente depuradas con OpenRefine. Soy una usuario frecuente y entusiasta de Zotero y este proyecto me puso en la ruta de pensar en visualizaciones a partir del contenido de las bases bibliográficas y del uso que se les da.
 2. “I ♥ E-Poetry” https://iloveepoetry.org/  Es un proyecto muy estético que funde el lenguaje de la poesía con las capacidades evocadoras de la manipulación visual de textos digitales. Esto me llevó a pensar en las posibilidades expresivas de juntar datos provenientes del mundo no-digital con el propiamente digital y buscar no solo lo que te permite ver el conocimiento, sino cómo se ve él mismo. 
+
+Otros proyectos encontrados que exploran computacionalmente la generación de imágenes a partir de textos son:
+
+3. https://imagen.research.google/
+ 
+4. https://www.forgerock.com/platform/identity-management/identity-visualization
+
+5. https://vision-explorer.allenai.org/text_to_image_generation
+ 
+6. http://www.chrissybrimmage.com/visualizing-identity
+
 ## Herramientas
 Biblio-retrato, deberá hacer uso de Zotero y de OpenRefine, pues el primero contiene el corpus que se usará y el segundo es una herramienta para depurar los datos, por ello no se considerarán aquí como herramientas por separado.
 
@@ -63,7 +74,10 @@ Ningún elemento ni objeto digital (i.e. archivos .csv; .svg; .jpg; .png, etc.) 
 4. https://openrefine.org
 5. https://voyant-tools.org/?corpus=451e87665270278b3512bc72bbe3472c&panels=cirrus,reader,trends,summary
 6. http://musingsaboutlibrarianship.blogspot.com/2019/09/the-rise-of-new-citation-indexes-and_5.html
-7. https://www.vosviewer.com
+7.https://github.com/papermachines/papermachines
+8. https://www.vosviewer.com
+9. https://github.com/corajr/zotero-voyant-export/ 
+
 
 ## Acceso y sustentabilidad
 La aplicacación estará alojada en un sitio institucional y los datos que se reciban a través del sistema (como fotografías personales y analíticas), no se conservarán como parte de la protección de los datos personales.
