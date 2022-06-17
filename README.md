@@ -5,6 +5,7 @@ Proyecto de visualización que busca complementar un retrato fotográfico están
 Se trata de un proyecto híbrido que desarrollará plugins de minería de textos y visualización para Zotero [^1], generación de imágenes superpuestas a través de IA, así como el diseño de galerías fotográficas en web de donde el usuario podrá elegir arreglos o superposiciones fotográficas que representen mejor la forma cómo se relaciona con lo que leee. 
 ## Palabras clave
 identidades académicas | visualización de datos | prácticas académicas | literacidad | lectura académica | Zotero.
+                                  <img width="484" alt="Captura de Pantalla 2022-06-17 a la(s) 1 39 34" src="https://user-images.githubusercontent.com/69394840/174241124-ad4216f9-5db3-4d9f-9353-782ed7f856ed.png">
 
 [^1]: Herramientas como Paper Machine y Zotero Voyant Export no han sido actualizadas a las últimas versiones de Zotero pero sus códigos están disponibles en Github. https://github.com/papermachines/papermachines; https://github.com/corajr/zotero-voyant-export/
 ## Objetivos
