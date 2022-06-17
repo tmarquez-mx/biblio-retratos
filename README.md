@@ -1,6 +1,6 @@
 # Biblio-retrato. Un proyecto de Humanidades Digitales  ![imagen](https://user-images.githubusercontent.com/69394840/173283398-25a352a4-c7a2-4acb-926e-824d7f40ec95.png)
-
-Proyecto de visualización que busca complementar los datos visuales de un retrato fotográfico con los metadatos de un gestor de referencias bibliográficas.  Esta superposición explora digitalmente cierta representación identitaria que responde a la pregunta ¿somos lo que leemos? ¿en dónde se ubica ese cúmulo de lecturas bibliográficas respecto a nuestra propia representación y presentación? Para este proposito usaré mi propia base de datos de Zotero cuyas primeras entradas datan del 2012. Es un proyecto híbrido que desarrollará herramientas de minería de textos y visualización para Zotero [^1],así como galerías en web que superpondrán (overlap) esas visualizaciones que se generarán desde el gestor bibliográfico, con retratos fotográficos subidos por la web obteniendo por el mismo medio el biblio-retrato en formato .png o .jpg
+## Descripción breve
+Proyecto de visualización que busca complementar los datos visuales de un retrato fotográfico con los metadatos de un gestor de referencias bibliográficas.  Esta superposición explora digitalmente la identidad acádemica en relación a la lectura y a las métricas sobre su producción académica ¿somos lo que leemos? ¿en dónde se ubica ese cúmulo de lecturas bibliográficas respecto a nuestra propia representación y presentación? Para este proposito usaré mi propia base de datos de Zotero cuyas primeras entradas datan del 2012. Es un proyecto híbrido que desarrollará herramientas de minería de textos y visualización para Zotero [^1],así como galerías en web que superpondrán (overlap) esas visualizaciones que se generarán desde el gestor bibliográfico, con retratos fotográficos subidos por la web obteniendo por el mismo medio el biblio-retrato en formato .png o .jpg
 [^1]: Herramientas como Paper Machine y Zotero Voyant Export no han sido actualizadas a las últimas versiones de Zotero pero sus códigos están disponibles en Github. https://github.com/papermachines/papermachines; https://github.com/corajr/zotero-voyant-export/
 ## Objetivos
 1. Explorar los tipos de e-datos que conforman la identidad de una persona.
@@ -76,6 +76,41 @@ Al ser el primer proyecto de HD que se realizará en la Ibero, herramientas de s
 5. Remover fondo de las imágenes .SVG  con removeBG
 6. Capturar foto retratos
 7. Fundir ambas imágenes
+
+## Fuentes consultadas
+Bucchi, M., & Saracino, B. (2016). “Visual Science Literacy”: Images and Public Understanding of Science in the Digital Age. Science Communication, 38(6), 812-819. https://doi.org/10.1177/1075547016677833
+
+Engebretsen, M., & Kennedy, H. (Eds.). (2020). Data Visualization in Society. Amsterdam University Press. https://doi.org/10.5117/9789463722902
+
+Guzmán-Valenzuela, C., & Martínez Larraín, M. (2016). Tensiones en la construcción de identidades académicas en una universidad chilena. Estudios pedagógicos (Valdivia), 42(3), 191-206. https://doi.org/10.4067/S0718-07052016000400010
+
+Hullman, J., & Diakopoulos, N. (2011). Visualization Rhetoric: Framing Effects in Narrative Visualization. IEEE Transactions on Visualization and Computer Graphics, 17(12), 2231-2240. https://doi.org/10.1109/TVCG.2011.255
+
+Imagen: Text-to-Image Diffusion Models. (s. f.). Recuperado 16 de junio de 2022, de https://imagen.research.google/
+
+Kennedy, H., & Hill, R. L. (2017). The Pleasure and Pain of Visualizing Data in Times of Data Power. Television & New Media, 18(8), 769-782. https://doi.org/10.1177/1527476416667823
+
+Kirca, H. S., & Glover, P. (2021). We are what we read: Reading identity of university students of English language teaching. RumeliDE Dil ve Edebiyat Araştırmaları Dergisi. https://doi.org/10.29000/rumelide.997589
+
+Renteria, A. L. (2016). Identidades académicas en cambio en el seno de la universidad multilingüe. Papeles del CEIC, 163-163. https://doi.org/10.1387/pceic.15978
+
+Saharia, C., Chan, W., Saxena, S., Li, L., Whang, J., Denton, E., Ghasemipour, S. K. S., Ayan, B. K., Mahdavi, S. S., Lopes, R. G., Salimans, T., Ho, J., 
+
+Fleet, D. J., & Norouzi, M. (2022). Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding (arXiv:2205.11487). arXiv. https://doi.org/10.48550/arXiv.2205.11487
+
+Text-to-Image Generation. (s. f.). Recuperado 16 de junio de 2022, de https://vision-explorer.allenai.org/text_to_image_generation
+
+Visualizing Identity. (s. f.). Chrissy Brimmage. Recuperado 16 de junio de 2022, de http://www.chrissybrimmage.com/visualizing-identity
+
+Xiong, C., Shapiro, J., Hullman, J., & Franconeri, S. (2020). Illusion of Causality in Visualized Data. IEEE Transactions on Visualization and Computer Graphics, 26(1), 853-862. https://doi.org/10.1109/TVCG.2019.2934399
+
+Xu, T., Zhang, P., Huang, Q., Zhang, H., Gan, Z., Huang, X., & He, X. (2018). AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks. 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 1316-1324. https://doi.org/10.1109/CVPR.2018.00143
+
+Zakraoui, J., Saleh, M., Al-Maadeed, S., & Jaam, J. M. (2021). Improving text-to-image generation with object layout guidance. Multimedia Tools and Applications, 80(18), 27423-27443. https://doi.org/10.1007/s11042-021-11038-0
+
+
+
+
 ## Narrativa visual a partir de biblio-retratos simulados con fines demostrativos
 ![4](https://user-images.githubusercontent.com/69394840/173243391-75859132-e8fd-4829-8866-111a3d8e076d.png)
 ![1](https://user-images.githubusercontent.com/69394840/173243415-7db81dea-86e8-4159-bf9d-0d6c52f6efeb.png)
