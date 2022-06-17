@@ -1,4 +1,5 @@
-# Biblio-retrato. Un proyecto de Humanidades Digitales  ![imagen](https://user-images.githubusercontent.com/69394840/173283398-25a352a4-c7a2-4acb-926e-824d7f40ec95.png)
+# Biblio-retrato. Visualizando identidades académicas 
+                         Un proyecto de Humanidades Digitales en construcción 
 ## Descripción breve
 Proyecto de visualización que busca complementar un retrato fotográfico estándar con las visualizaciones de analíticas un gestor personal de referencias bibliográficas.  Esta superposición explora digitalmente la identidad acádemica en relación con el trabajo de lectura profesional realizado. ¿Somos lo que leemos? ¿En dónde se ubica ese cúmulo de lecturas bibliográficas respecto a nuestra propia presentación como investigadores? 
 Se trata de un proyecto híbrido que desarrollará plugins de minería de textos y visualización para Zotero [^1], generación de imágenes superpuestas a través de IA, así como el diseño de galerías fotográficas en web de donde el usuario podrá elegir arreglos o superposiciones fotográficas que representen mejor la forma cómo se relaciona con lo que leee. 
