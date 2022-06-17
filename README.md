@@ -85,6 +85,15 @@ La tercera  herramienta o código, deberá permitir recibir a través de una pá
 
 Ningún elemento ni objeto digital (i.e. archivos .csv; .svg; .jpg; .png, etc.) se conservará en servidores por lo que los datos del usuario estarán plenamente seguros y libres de todo uso o almacenamiento indebido.
 
+## Procedimiento del usuario
+1. Para obtener un biblio-retrato, el investogador deberá tener sus fuentes de consulta bibliográfica en Zotero lo más depurada posible
+2. Deberá instalar el o los plugins que desarrollaremos para visualizar analíticas como: frecuencia de autores, frecuencia de años publicación, geolocalización de los lugares de publicación; frecuencia de los idiomas de la bibliografía; fuentes más consultadas, etc.
+3. Una vez obtenida la visualización deseada, deberá subirla a la página web de biblio-retratos junto con una foto tipo oficial con el primer plano de su rostro
+4. Deberá elegir de una galería proporcionada el tipo de arreglo o composición de la superposición de su foto con la visual de su base de Zotero
+5. Se generará su biblio-retrato que podrá bajar en diferentes resoluciones y formatos
+6. El sistema no guardará los objetos digitales subidos y no será necesario registrarse en la página.
+
+
 ## Recursos en revisión (en proceso)
 1. https://vispo.com/index.html  (animación)
 2. https://www.usandizaga.com/design/pinacogramas-y-caligramas-retratos-con-letras/![imagen](https://user-images.githubusercontent.com/69394840/173201608-666907ba-def1-455e-8030-35f75e47067d.png) (retratos con letras)
