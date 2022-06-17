@@ -46,7 +46,7 @@ El proyecto se documentará a través de Github y siguiendo la Guía de buenas p
 ## Revisión y evaluación académica
 Se buscará financiamiento académico por evaluación (DINV/Ibero). Además de la documentación en Github donde también se compartirá la metodología y los códigos desarrollados, habrá un sitio web desde donde se podrá hacer uso en línea de las aplicaciones desarrolladas. Se espera también desarrollar plugins para Zotero que estarán disponibles en la página de recursos de esa aplicación. De esta manera, los componentes del proyecto al estar abiertos al uso de una amplia comunidad académica, estará evaluación de pares y no-pares.
 ## Estrategia de sostenibilidad
-Se trata de un punto crítico pues el biblio-retrato depende de las actualizaciones de Zotero que exigirá revisiones  constantes de los plugins que se desarrollen. Al abrir el código, se espera que de no contar con recursos para el mantenimiento, la comunidad de usuarios pueda hacerlo.
+Se trata de un punto crítico pues el biblio-retrato depende de las actualizaciones de Zotero que exigirá revisiones semestrales de los plugins que se desarrollen. Al abrir el código, se espera que de no contar con recursos para el mantenimiento, la comunidad de usuarios alrededor del mundo pueda hacerlo.
 ##  Experticias necesarias:
 1.	Conocimiento del código abierto de Zotero y programación en JavaScript y SQLite 
 2.	Manipulación de imagen digital y programación en HTML y Python
