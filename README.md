@@ -19,6 +19,14 @@ Biblio-retrato explora la conformación de las identidades académicas a partir 
 Para identificar el trabajo de lectura se tomarán las bases bibliográficas donde el investigador gestiona sus fuentes. Concretamente, se trabajará con Zotero por ser un programa de código abierto y de amplia difusión en la comunidad científica. Se desarrollarán o actualizarán plugins que permitirán construir analíticas de las fuentes registradas y de sus usos, así como generar visualizaciones con esos datos. Tales imágenes se superpondrán con una forografía del investigador dando como resultado un "biblio-retrato" que reflejará cómo su presentación como investigador está conformada -al menos en parte- por la relación que guarda con lo que lee.
 
 ## Justificación
+El tema de las identidades académicas ha sido escasamente estudiado en la Región Latinoamericana. Los contados estudios realizados en la Región abordan poblaciones de estudiantes de posgrado o investigadores jóvenes en relación a la escritura, no hay entonces estudios de prácticas académicas de lectura.
+
+Si bien el trabajo de lectura académica es generativo de procesos de investigación, el tema de las métricas que evalúan el trabajo científico, en el contexto del debate ya mencionado para degenerar el trabajo de producción de conocimiento a un tema de puntos, prestigio y recomepensas alejadas al impacto positivo en la mejora del mundo en el que vivimos. Acercar la construcción de métricas sobre una actividad vital para el investigador como es la lectura de textos académicos y científicos es un porporcionar un dispositivo de reflexión.
+
+Por otro lado, al producir imágenes se espera tener un impacto improtante a través de un artefacto estético que lleve a jóevenes estudiantes a reflexionar sobre los usos de las herramientas de investigación y cómo puede un gestor de bibliografía más allá de la utilidad para el cual fue desarrollado, proporcionar datos que nos constituyen como profesionales. 
+
+
+## Aportes
 1. Estímulo a los estudiantes a sistematizar su información bibliográfica a través de software
 2. Incentivo a los profesores e investigadores a monitorear y evaluar sus fuentes de lectura
 3. Formación de un grupo de trabajo interdisciplinario
