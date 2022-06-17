@@ -193,7 +193,8 @@ Zakraoui, J., Saleh, M., Al-Maadeed, S., & Jaam, J. M. (2021). Improving text-to
 
 ## Narrativa visual a partir de biblio-retratos simulados con fines demostrativos
 
-![4](https://user-images.githubusercontent.com/69394840/173243391-75859132-e8fd-4829-8866-111a3d8e076d.png)
-![1](https://user-images.githubusercontent.com/69394840/173243415-7db81dea-86e8-4159-bf9d-0d6c52f6efeb.png)
-![2](https://user-images.githubusercontent.com/69394840/173243418-13b82350-55a1-4452-b328-10b69ccd38c6.png)
-![3](https://user-images.githubusercontent.com/69394840/173243423-1f146093-2b5b-453a-a0b2-cbd8ca7b0817.png)
+![2](https://user-images.githubusercontent.com/69394840/174241987-1a715f1a-dcd7-4daf-ade6-54eea2a66c7d.png)
+![3](https://user-images.githubusercontent.com/69394840/174241994-72476eef-c74f-45ce-8176-5b766212b902.png)
+
+![4](https://user-images.githubusercontent.com/69394840/174242003-044b17f2-6fca-4985-a65a-39991deedfc2.png)
+![1](https://user-images.githubusercontent.com/69394840/174241971-b36a6d0b-ec9d-4976-a76b-e0334d41ce0d.png)
