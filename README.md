@@ -82,7 +82,8 @@ Ningún elemento ni objeto digital (i.e. archivos .csv; .svg; .jpg; .png, etc.) 
 ## Acceso y sustentabilidad
 La aplicacación estará alojada en un sitio institucional y los datos que se reciban a través del sistema (como fotografías personales y analíticas), no se conservarán como parte de la protección de los datos personales.
 ## Productos esperables
-Al ser el primer proyecto de HD que se realizará en la Ibero, herramientas de software que se desarrollen, sinergias, infraestructura, metodologías y procesos (incluidos los de documentación) serán en sí mismos productos de la investigación. Como resultado final se pueden considerar participaciones en reuniones académicas o congresos; al menos dos artículos académicos y una exposición multimedia donde se mostrarán fotos impresas y en pantalla, así como animaciones del proceso de trabajo. La página web de biblio-retratos es el producto principal y contendrá además toda la documentación del proyecto lo que en sí mismo generará aprendizaje y antecedentes para buenas prácticas de la investigación abierta en la Ibero. 
+Al ser el primer proyecto de HD que se realizará en la Ibero, herramientas de software que se desarrollen (i.e. plugins para Zotero), sinergias (trabajo colaborativo interdiciplinario), infraestructura, metodologías y procesos (incluidos los de documentación) serán en sí mismos productos de la investigación. 
+Como resultado final se pueden considerar participaciones en reuniones académicas o congresos; al menos cuatro artículos académicos (uno por investigador participante y otro elaborado por los estudiantes-asistentes) y una exposición multimedia donde se mostrarán fotos impresas y en pantalla, así como animaciones del proceso de trabajo. La página web de biblio-retratos es el producto principal y contendrá además toda la documentación del proyecto lo que en sí mismo generará aprendizaje y antecedentes para buenas prácticas de la investigación abierta en la Ibero. 
 ## Licencia
 <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p> 
 <img width="965" alt="Captura de Pantalla 2022-06-11 a la(s) 21 00 29" src="https://user-images.githubusercontent.com/69394840/173211143-62becfaf-af07-4c53-9b94-302b48ec98c8.png">
@@ -96,39 +97,71 @@ Al ser el primer proyecto de HD que se realizará en la Ibero, herramientas de s
 6. Capturar foto retratos
 7. Fundir ambas imágenes
 
-## Fuentes consultadas
+## Fuentes relevantes identificadas
+Allen, W. L. (2021). The conventions and politics of migration data visualizations. New Media & Society, 14614448211019300. https://doi.org/10.1177/14614448211019300
+
+Amoore, L., & Piotukh, V. (Eds.). (2015). Algorithmic Life: Calculative Devices in the Age of Big Data. https://s3.amazonaws.com/arena-attachments/826659/e79de8190a31b0acd41b20f8e137fd0e.pdf
+
 Bucchi, M., & Saracino, B. (2016). “Visual Science Literacy”: Images and Public Understanding of Science in the Digital Age. Science Communication, 38(6), 812-819. https://doi.org/10.1177/1075547016677833
 
+Calle-Arango, L., Reyes, N. Á., & Meneses, A. (2021). Construcción y transformaciones de las identidades académicas de estudiantes doctorales mediante la citación*. Íkala, Revista de Lenguaje y Cultura, 26(2), 331-346.
+
+Castelló, M., McAlpine, L., Sala-Bubaré, A., Inouye, K., & Skakni, I. (2021). What perspectives underlie ‘researcher identity’? A review of two decades of empirical studies. Higher Education, 81(3), 567-590. https://doi.org/10.1007/s10734-020-00557-8
+
+D’Ignazio, C., & Klein, L. F. (s. f.). Feminist Data Visualization.
+
+D’Ignazio, C., & Klein, L. F. (2020). Data Feminism. MIT Press.
+
+Dörk, M., Feng, P., Collins, C., & Carpendale, S. (2013). Critical InfoVis: Exploring the politics of visualization. CHI ’13 Extended Abstracts on Human Factors in Computing Systems on - CHI EA ’13, 2189. https://doi.org/10.1145/2468356.2468739
+
+Dundalk Institute of Technology, Maguire, M., Reynolds, A. E., Dundalk Institute of Technology, Delahunt, B., & Dundalk Institute of Technology. (2020). Reading to Be: The role of academic reading in emergent academic and professional student identities. Journal of University Teaching and Learning Practice, 17(2), 58-70. https://doi.org/10.53761/1.17.2.5
+
 Engebretsen, M., & Kennedy, H. (Eds.). (2020). Data Visualization in Society. Amsterdam University Press. https://doi.org/10.5117/9789463722902
+
+Fardella Cisternas, C., García-Meneses, J., Soto Roy, A., & Corvalán-Navia, A. (2021). Exacerbados. Identidades académicas y la transformación de la educación superior chilena. Quaderns de Psicologia, 23(2), e1602. https://doi.org/10.5565/rev/qpsicologia.1602
 
 Guzmán-Valenzuela, C., & Martínez Larraín, M. (2016). Tensiones en la construcción de identidades académicas en una universidad chilena. Estudios pedagógicos (Valdivia), 42(3), 191-206. https://doi.org/10.4067/S0718-07052016000400010
 
 Hullman, J., & Diakopoulos, N. (2011). Visualization Rhetoric: Framing Effects in Narrative Visualization. IEEE Transactions on Visualization and Computer Graphics, 17(12), 2231-2240. https://doi.org/10.1109/TVCG.2011.255
 
+Identity Visualization | ForgeRock Identity Platform. (s. f.-a). Recuperado 16 de junio de 2022, de https://www.forgerock.com/platform/identity-management/identity-visualization
+
+Identity Visualization | ForgeRock Identity Platform. (s. f.-b). Recuperado 16 de junio de 2022, de https://www.forgerock.com/platform/identity-management/identity-visualization
+
 Imagen: Text-to-Image Diffusion Models. (s. f.). Recuperado 16 de junio de 2022, de https://imagen.research.google/
 
+Ivanič, R. (1998). Writing and Identity: The discoursal construction of identity in academic writing. John Benjamins. https://doi.org/10.1075/swll.5
 Kennedy, H., & Hill, R. L. (2017). The Pleasure and Pain of Visualizing Data in Times of Data Power. Television & New Media, 18(8), 769-782. https://doi.org/10.1177/1527476416667823
 
 Kirca, H. S., & Glover, P. (2021). We are what we read: Reading identity of university students of English language teaching. RumeliDE Dil ve Edebiyat Araştırmaları Dergisi. https://doi.org/10.29000/rumelide.997589
 
+Lectura y Escritura para aprender, crecer y transformar: 25 años de la Cátedra UNESCO. (2020). https://www.estudiosdelaescritura.org/uploads/4/7/8/1/47810247/mart%C3%ADnez_sol%C3%ADs_et_al_2020_lectura_y_escritura_para_aprender_crecer_y_transformar.pdf
+Lupton, D. (2016). The Quantified Self. John Wiley & Sons.
+
+Nash, K., Trott, V., & Allen, W. (2022). The politics of data visualisation and policy making. Convergence, 28(1), 3-12. https://doi.org/10.1177/13548565221079156
+
 Renteria, A. L. (2016). Identidades académicas en cambio en el seno de la universidad multilingüe. Papeles del CEIC, 163-163. https://doi.org/10.1387/pceic.15978
 
-Saharia, C., Chan, W., Saxena, S., Li, L., Whang, J., Denton, E., Ghasemipour, S. K. S., Ayan, B. K., Mahdavi, S. S., Lopes, R. G., Salimans, T., Ho, J., 
+Saharia, C., Chan, W., Saxena, S., Li, L., Whang, J., Denton, E., Ghasemipour, S. K. S., Ayan, B. K., Mahdavi, S. S., Lopes, R. G., Salimans, T., Ho, J., Fleet, D. J., & Norouzi, M. (2022). Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding (arXiv:2205.11487). arXiv. https://doi.org/10.48550/arXiv.2205.11487
 
-Fleet, D. J., & Norouzi, M. (2022). Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding (arXiv:2205.11487). arXiv. https://doi.org/10.48550/arXiv.2205.11487
+Taylor, L. (2016). The ethics of big data as a public good: Which public? Whose good? Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 374(2083), 20160126. https://doi.org/10.1098/rsta.2016.0126
 
 Text-to-Image Generation. (s. f.). Recuperado 16 de junio de 2022, de https://vision-explorer.allenai.org/text_to_image_generation
 
-Visualizing Identity. (s. f.). Chrissy Brimmage. Recuperado 16 de junio de 2022, de http://www.chrissybrimmage.com/visualizing-identity
+Valle, C. S. D. (s. f.). RETOS Y DESAFÍOS DE LOS INVESTIGADORES DE LA FORMACIÓN DE INVESTIGADORES EN EDUCACIÓN. 30.
 
+varios, E. E. P., S. L. ,Antoni Gutiérrez-Rubí. (s. f.). Infografías, visualizaciones y política. Micropolítica. Recuperado 16 de junio de 2022, de https://blogs.elpais.com/micropolitica/2012/04/infografias-visualizaciones-y-politica.html
+
+Viewpoint: The Politics of Data Visualisation. (2015, agosto 3). Discover Society. https://archive.discoversociety.org/2015/08/03/viewpoint-the-politics-of-data-visualisation/
+
+Visualize your Identity! (s. f.). Google Arts & Culture. Recuperado 16 de junio de 2022, de https://artsandculture.google.com/asset/visualize-your-identity/zwEw6Mt80lL91w
+
+Visualizing Identity. (s. f.). Chrissy Brimmage. Recuperado 16 de junio de 2022, de http://www.chrissybrimmage.com/visualizing-identity
 Xiong, C., Shapiro, J., Hullman, J., & Franconeri, S. (2020). Illusion of Causality in Visualized Data. IEEE Transactions on Visualization and Computer Graphics, 26(1), 853-862. https://doi.org/10.1109/TVCG.2019.2934399
 
 Xu, T., Zhang, P., Huang, Q., Zhang, H., Gan, Z., Huang, X., & He, X. (2018). AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks. 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 1316-1324. https://doi.org/10.1109/CVPR.2018.00143
 
 Zakraoui, J., Saleh, M., Al-Maadeed, S., & Jaam, J. M. (2021). Improving text-to-image generation with object layout guidance. Multimedia Tools and Applications, 80(18), 27423-27443. https://doi.org/10.1007/s11042-021-11038-0
-
-
-
 
 ## Narrativa visual a partir de biblio-retratos simulados con fines demostrativos
 ![4](https://user-images.githubusercontent.com/69394840/173243391-75859132-e8fd-4829-8866-111a3d8e076d.png)
