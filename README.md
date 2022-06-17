@@ -89,7 +89,7 @@ La tercera  herramienta o código, deberá permitir recibir a través de una pá
 Ningún elemento ni objeto digital (i.e. archivos .csv; .svg; .jpg; .png, etc.) se conservará en servidores por lo que los datos del usuario estarán plenamente seguros y libres de todo uso o almacenamiento indebido.
 
 ## Procedimiento del usuario
-1. Para obtener un biblio-retrato, el investogador deberá tener sus fuentes de consulta bibliográfica en Zotero lo más depurada posible
+1. Para obtener un biblio-retrato, el investigador deberá tener sus fuentes de consulta bibliográfica en Zotero lo más depurada posible
 2. Deberá instalar el o los plugins que desarrollaremos para visualizar analíticas como: frecuencia de autores, frecuencia de años publicación, geolocalización de los lugares de publicación; frecuencia de los idiomas de la bibliografía; fuentes más consultadas, etc.
 3. Una vez obtenida la visualización deseada, deberá subirla a la página web de biblio-retratos junto con una foto tipo oficial con el primer plano de su rostro
 4. Deberá elegir de una galería proporcionada el tipo de arreglo o composición de la superposición de su foto con la visual de su base de Zotero
