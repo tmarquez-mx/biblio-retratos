@@ -1,4 +1,4 @@
-# Biblio-retrato. Visualizando identidades académicas 
+# Biblio-retratos. Visualizando identidades académicas 
                          Un proyecto de Humanidades Digitales en construcción 
 ## Descripción breve
 Proyecto de visualización que busca complementar un retrato fotográfico estándar con las visualizaciones de analíticas un gestor personal de referencias bibliográficas.  Esta superposición explora digitalmente la identidad acádemica en relación con el trabajo de lectura profesional realizado. ¿Somos lo que leemos? ¿En dónde se ubica ese cúmulo de lecturas bibliográficas respecto a nuestra propia presentación como investigadores? 
@@ -191,6 +191,7 @@ Xu, T., Zhang, P., Huang, Q., Zhang, H., Gan, Z., Huang, X., & He, X. (2018). At
 Zakraoui, J., Saleh, M., Al-Maadeed, S., & Jaam, J. M. (2021). Improving text-to-image generation with object layout guidance. Multimedia Tools and Applications, 80(18), 27423-27443. https://doi.org/10.1007/s11042-021-11038-0
 
 ## Narrativa visual a partir de biblio-retratos simulados con fines demostrativos
+
 ![4](https://user-images.githubusercontent.com/69394840/173243391-75859132-e8fd-4829-8866-111a3d8e076d.png)
 ![1](https://user-images.githubusercontent.com/69394840/173243415-7db81dea-86e8-4159-bf9d-0d6c52f6efeb.png)
 ![2](https://user-images.githubusercontent.com/69394840/173243418-13b82350-55a1-4452-b328-10b69ccd38c6.png)
