@@ -9,9 +9,9 @@ Proyecto de visualización que busca complementar los datos visuales de un retra
 
 ## Antecedentes
 
-El proyecto explora la conformación de las identidades académicas a partir de las métricas y analíticas de la producción científica cada vez másen los sistemas de evaluación de la producción científica a la que son sometidos los investigadores en las universidades. Dentro de estas métricas, el proyecto se enfoca específicamente en las que resultan del  propio trabajo de lectura de textos orientados al trabajo de investigación. Se parte entonces del supuesto que la lectura constituye una *práctica académica de literacidad*. En este sentido, la lectura de textos académicos, en tanto práctica de literacidad influye en la conformación de la identidad como investigador(a).(Ver Calle-Arango et  frecuentes al., 2021; Kirka 2021)
+El proyecto explora la conformación de las identidades académicas a partir de las métricas y analíticas de la producción científica cada vez vez más frecuentes en los sistemas de evaluación de la producción científica a la que son sometidos los investigadores en las universidades. Típicamente son visualizaciones construidas desde fuera sobre el trabajo de investigación. Este proyecto en cambio se enfoca específicamente en las métricas y visuales que resultan del trabajo de lectura de textos que pueden o no resultar en un producto evaluable. Serán además visualizaciones de datos que están totalmente bajo control del investigador y que él mismo generará. Se parte del supuesto que la lectura constituye una *práctica académica de literacidad*, y, en tanto práctica de literacidad, la lectura de textos científicos influye en la conformación de la identidad como investigador(a).(Ver Calle-Arango et  frecuentes al., 2021; Kirka 2021)
 
-Para identificar el trabajo de lectura se tomará las bases bibliográficas donde el investigador gestiona sus fuentes. Concretamente, se trabajará con Zotero por ser un programa de código abierto y de amplia difusión. Se desarrollarán o actualizarán plugins que permitirán construir analíticas de las fuentes registradas y de sus usos, así como generar visualizaciones con esos datos. Tales imágenes se superpondrán con una forografía del investigador dando como resultado un "biblio-retarto" que reflejará cómo su presentación como investigador está conformada por la relación que guarda con lo que lee.
+Para identificar el trabajo de lectura se tomará las bases bibliográficas donde el investigador gestiona sus fuentes. Concretamente, se trabajará con Zotero por ser un programa de código abierto y de amplia difusión. Se desarrollarán o actualizarán plugins que permitirán construir analíticas de las fuentes registradas y de sus usos, así como generar visualizaciones con esos datos. Tales imágenes se superpondrán con una forografía del investigador dando como resultado un "biblio-retarto" que reflejará cómo su presentación como investigador está conformada -al menos en parte- por la relación que guarda con lo que lee.
 
 ## Justificación
 1. Estímulo a los estudiantes a sistematizar su información bibliográfica a través de software
@@ -21,6 +21,9 @@ Para identificar el trabajo de lectura se tomará las bases bibliográficas dond
 5. Incursión en el terreno de las Humanidades Digitales y en los principios FAIR de ciencia abierta
 6. Desarrollo de herramientas para la visualización de corpus bibliográficos que se abrirán a una comunudad global de usuarios de Zotero
 7. Reflexión sobre cómo los datos y la experiencia de consulta de fuentes nos constituyen (identificación y análisis de patrones y trayectorias)
+8. Desarrollo de código en el terreno de la IA para la generación de imágenes a partir de análiticas
+9. Desarrollo de código para la superposición y composición de imágenes agregadas vía web.
+10. Sensibilización sobre el tema de las identidades académicas y el papel político de las visualizaciones y métricas.
 
 
 ## Estrategia de documentacion
