@@ -10,10 +10,13 @@ identidades académicas | visualización de datos | prácticas académicas | lit
 <img width="484" alt="Captura de Pantalla 2022-06-17 a la(s) 1 39 34" src="https://user-images.githubusercontent.com/69394840/174241124-ad4216f9-5db3-4d9f-9353-782ed7f856ed.png">
 
 [^1]: Herramientas como Paper Machine y Zotero Voyant Export no han sido actualizadas a las últimas versiones de Zotero pero sus códigos están disponibles en Github. https://github.com/papermachines/papermachines; https://github.com/corajr/zotero-voyant-export/
-## Objetivos
-1. Explorar la identidad académica en relación a las métricas y visualizaciones de su práctica académica de lectura
-2. Desarrollar y/o actualizar plugins de minería de textos y visualización para Zotero, a fin de contruir analíticas y visualizaciones de su uso y contenido.
-3. Crear visualizaciones que de manera estética a través de autorretarto, que interroguen los vacíos de la fotografía digital convencional y el lugar de las métricas de prácticas de lectura académica.
+## Objetivo general
+Crear visualizaciones de prácticas de lectura académica como componentes de la identidad del investigador universitario.
+## Objetivos específicos
+1. Explorar conceptualmente la configuración de identidades académicas en relación a las métricas y visualizaciones de prácticas académicas de lectura
+2. Desarrollar y/o actualizar plugins de minería de textos y de visualización para el gestor Zotero
+3. Escribir código de software para la generación de imágenes combinadas y superpuestas tipo retrato en plataforma web
+4. Normalizar procesos y metodologías de documentación de la investigación así como protocolos para la apertura de sus datos
 
 ## Antecedentes
 El trabajo de investigación realizado por los investigadores en las universidades es evaluado en términos de métricas de productividad científica. Se trata de un tema en pleno debate donde aparecen por un lado las grandes editoriales científicas que buscan imponer el factor de impacto como medida hegemónica. El factor de imapcto mide la frecuencia con la cual ha sido citado el artículo promedio de una revista en un año en particular. Por otro lado, diferentes grupos académicos como DORA, la propia UNESCO y Folec-CLACSO en Latinoamérica definden métricas responsables que es una propuesta de indicadores que atienden más a la calidad de los productos más que a sus medios de difusión o publicación. Exite una abundante producción de gráficas y visualizaciones productos de estudios y análisis bibliométricos respecto a la conveniencia o no de unos y otros indicadores. En esa guerra de imágenes cientificas, el investigador de a pie debe decir quién es cuál es su trabajo, la producción de conocimiento o la escritura de artículos. Se trata de una identidad amenzada, presionada a vivir en dos mundos opuestos. Esta abundancia de visuales deja de lado sin embargo el punto de inicio de toda investigación, que es la elección de fuentes para leer e informar el proyecto de investigación.
