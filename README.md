@@ -9,7 +9,7 @@ Proyecto de visualización que busca complementar los datos visuales de un retra
 
 ## Antecedentes
 
-El proyecto explora la conformación de las identidades académicas a partir de las métricas y analíticas de la producción científica cada vez vez más frecuentes en los sistemas de evaluación de la producción científica a la que son sometidos los investigadores en las universidades. Típicamente son visualizaciones construidas desde fuera sobre el trabajo de investigación. Este proyecto en cambio se enfoca específicamente en las métricas y visuales que resultan del trabajo de lectura de textos que pueden o no resultar en un producto evaluable. Serán además visualizaciones de datos que están totalmente bajo control del investigador y que él mismo generará. Se parte del supuesto que la lectura constituye una *práctica académica de literacidad*, y, en tanto práctica de literacidad, la lectura de textos científicos influye en la conformación de la identidad como investigador(a).(Ver Calle-Arango et  frecuentes al., 2021; Kirka 2021)
+El proyecto explora la conformación de las identidades académicas a partir de las métricas y analíticas de la producción científica cada vez vez más frecuentes en los sistemas de evaluación de la producción científica a la que son sometidos los investigadores en las universidades. Típicamente son visualizaciones construidas desde fuera sobre el trabajo de investigación. Este proyecto en cambio se enfoca específicamente en las métricas y visuales que resultan del trabajo de lectura de textos que pueden o no resultar en un producto evaluable. Serán además visualizaciones de datos que están totalmente bajo control del investigador y que él mismo generará. Se parte del supuesto que la lectura constituye una *práctica académica de literacidad*, y, en tanto práctica de literacidad, la lectura de textos científicos influye en la conformación de la identidad como investigador(a).(Ver Calle-Arango et al., 2021; Kirka, 2021).
 
 Para identificar el trabajo de lectura se tomará las bases bibliográficas donde el investigador gestiona sus fuentes. Concretamente, se trabajará con Zotero por ser un programa de código abierto y de amplia difusión. Se desarrollarán o actualizarán plugins que permitirán construir analíticas de las fuentes registradas y de sus usos, así como generar visualizaciones con esos datos. Tales imágenes se superpondrán con una forografía del investigador dando como resultado un "biblio-retarto" que reflejará cómo su presentación como investigador está conformada -al menos en parte- por la relación que guarda con lo que lee.
 
@@ -41,8 +41,8 @@ Se trata de un punto crítico pues el biblio-retrato depende de las actualizacio
 3. UnX diseñadorX Transmedia. 
 ## Influencias de proyectos HD
 Proyectos en HD: 
-1. “Intercambios oceánicos” https://oceanicexchanges.org/mx/ 
-2. “I ♥ E-Poetry” https://iloveepoetry.org/
+1. “Intercambios oceánicos” https://oceanicexchanges.org/mx/  En la lectura del proyecto, se encontró la realización de un taller donde se generaron mapas a partir de bases de Zotero previamente depuradas con OpenRefine. Soy una usuario frecuente y entusiasta de Zotero y este proyecto me puso en la ruta de pensar en visualizaciones a partir del contenido de las bases bibliográficas y del uso que se les da.
+2. “I ♥ E-Poetry” https://iloveepoetry.org/  Es un proyecto muy estético que funde el lenguaje de la poesía con las capacidades evocadoras de la manipulación visual de textos digitales. Esto me llevó a pensar en las posibilidades expresivas de juntar datos provenientes del mundo no-digital con el propiamente digital y buscar no solo lo que te permite ver el conocimiento, sino cómo se ve él mismo. 
 ## Herramientas
 Biblio-retrato, deberá hacer uso de Zotero y de OpenRefine, pues el primero contiene el corpus que se usará y el segundo es una herramienta para depurar los datos, por ello no se considerarán aquí como herramientas por separado.
 
