@@ -47,7 +47,7 @@ Por otro lado, al producir imágenes se espera tener un impacto improtante a tra
 
 
 ## Estrategia de documentacion
-El proyecto se documentará a través de Github y siguiendo la Guía de buenas prácticas para la elaboración y evaluación de proyectos de HD y Checklist de la Red HD. http://humanidadesdigitales.net/guia-de-buenas-practicas-para-la-elaboracion-y-evaluacion-de-proyectos-de-humanidades-digitales-y-checklist/
+El proyecto se documentará a través de Github y de OSF Open Science Framework, OSF (https://osf.io) siguiendo la Guía de buenas prácticas para la elaboración y evaluación de proyectos de HD y Checklist de la Red HD. http://humanidadesdigitales.net/guia-de-buenas-practicas-para-la-elaboracion-y-evaluacion-de-proyectos-de-humanidades-digitales-y-checklist/; los principios TIER para la reproducibilidad  https://www.projecttier.org/ y los principios FAIR https://www.go-fair.org/fair-principles/ para la gestión de datos.
 ## Revisión y evaluación académica
 Se buscará financiamiento académico por evaluación (DINV/Ibero). Además de la documentación en Github donde también se compartirá la metodología y los códigos desarrollados, habrá un sitio web desde donde se podrá hacer uso en línea de las aplicaciones desarrolladas. Se espera también desarrollar plugins para Zotero que estarán disponibles en la página de recursos de esa aplicación. De esta manera, los componentes del proyecto al estar abiertos al uso de una amplia comunidad académica, estará evaluación de pares y no-pares.
 ## Estrategia de sostenibilidad
