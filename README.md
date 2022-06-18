@@ -11,7 +11,7 @@ identidades académicas | analítica visual | prácticas académicas | literacid
 
 [^1]: Herramientas como Paper Machine y Zotero Voyant Export no han sido actualizadas a las últimas versiones de Zotero pero sus códigos están disponibles en Github. https://github.com/papermachines/papermachines; https://github.com/corajr/zotero-voyant-export/
 ## Objetivo general
-Crear visualizaciones --mediante desarrollo de código-- a partir de analíticas de prácticas de lectura académica en tanto componentes de la identidad del investigador universitario.
+Posibilitar la autogeneración de visualizaciones --mediante desarrollo de código-- de las analíticas sobre las prácticas personales de lectura académica como componentes de la identidad del investigador universitario.
 ## Objetivos específicos
 1. Explorar conceptualmente la configuración de identidades académicas en relación a las métricas y visualizaciones de prácticas académicas de lectura
 2. Desarrollar y/o actualizar plugins de minería de textos y de visualización para el gestor Zotero
