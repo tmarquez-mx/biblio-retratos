@@ -13,8 +13,8 @@ identidades académicas | analítica visual | prácticas académicas | literacid
 ## Objetivo general
 Posibilitar la autogeneración de visualizaciones --mediante desarrollo de código-- de las analíticas sobre las prácticas personales de lectura académica como componentes de la identidad del investigador universitario.
 ## Objetivos específicos
-1. Explorar conceptualmente la configuración de identidades académicas en relación a las métricas y visualizaciones de prácticas académicas de lectura
-2. Desarrollar y/o actualizar plugins de minería de textos y de visualización para el gestor Zotero
+1. Explorar conceptualmente la configuración de identidades académicas digitales en relación a las métricas y visualizaciones de prácticas académicas de lectura
+2. Desarrollar y/o actualizar plugins de minería de textos y de visualización para el gestor bibliográfico Zotero
 3. Escribir código de software para la generación de imágenes combinadas y superpuestas tipo retrato en plataforma web
 4. Normalizar procesos y metodologías de documentación de la investigación así como protocolos para la apertura de sus datos
 
