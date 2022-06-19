@@ -56,6 +56,7 @@ El proyecto se documentará a través de:
 2. OSF Open Science Framework, OSF (https://osf.io) siguiendo la Guía de buenas prácticas para la elaboración y evaluación de proyectos de HD y Checklist de la Red HD. http://humanidadesdigitales.net/guia-de-buenas-practicas-para-la-elaboracion-y-evaluacion-de-proyectos-de-humanidades-digitales-y-checklist/
 3. Los principios TIER para la reproducibilidad  https://www.projecttier.org/  
 4. Los principios FAIR https://www.go-fair.org/fair-principles/ para la gestión de datos.
+5. Publicación de pre-prints en Zenodo y Open Science Framework (OSF).
 ## Revisión y evaluación académica
 Se buscará financiamiento académico por evaluación (DINV/Ibero). Se espera invitar a colegas pertenecientes a la RedHD-Ibero a que conformen un comité de acompañamiento ético-académico del proyecto. De ser aprobado para su financiación, la DINV/Ibero realiza también un seguimiento de los objetivos y metodología. 
 Además de la documentación en Github donde también se compartirá la metodología y los códigos desarrollados, habrá un sitio web desde donde se podrá hacer uso en línea de las aplicaciones desarrolladas. Se espera también desarrollar plugins para Zotero que estarán disponibles en la página de recursos de esa aplicación. De esta manera, los componentes del proyecto al estar abiertos al uso de una amplia comunidad académica, estará en permanente evaluación de pares y no-pares (ciencia pública).
