@@ -19,19 +19,23 @@ Posibilitar la autogeneración de visualizaciones --mediante desarrollo de códi
 4. Normalizar procesos y metodologías de documentación de la investigación así como protocolos para la apertura de sus datos
 
 ## Antecedentes
-El trabajo de investigación realizado por los investigadores en las universidades es evaluado en términos de métricas de productividad científica. Se trata de un tema en pleno debate donde aparecen por un lado las grandes editoriales científicas que buscan imponer el factor de impacto como medida hegemónica. El factor de imapcto mide la frecuencia con la cual ha sido citado el artículo promedio de una revista en un año en particular. Por otro lado, diferentes grupos académicos como DORA, la propia UNESCO y Folec-CLACSO en Latinoamérica definden métricas responsables que es una propuesta de indicadores que atienden más a la calidad de los productos más que a sus medios de difusión o publicación. Exite una abundante producción de gráficas y visualizaciones productos de estudios y análisis bibliométricos respecto a la conveniencia o no de unos y otros indicadores. En esa guerra de imágenes cientificas, el investigador de a pie debe decir quién es cuál es su trabajo, la producción de conocimiento o la escritura de artículos. Se trata de una identidad amenzada, presionada a vivir en dos mundos opuestos. Esta abundancia de visuales deja de lado sin embargo el punto de inicio de toda investigación, que es la elección de fuentes para leer e informar el proyecto de investigación.
+El trabajo de investigación realizado por los académicos en las universidades, es evaluado en términos de productividad científica que se expresa en indicadores y métricas. Se trata de un tema en pleno debate donde aparecen por un lado las grandes editoriales científicas que buscan imponer el factor de impacto como medida hegemónica y, por el otro lado, se encuentran diferentes grupos más académicos (i.e. DORA, la propia UNESCO y Folec-CLACSO en Latinoamérica) que defienden métricas responsables que atiendan a la calidad de los resultados de la investigación y no al prestigio de las revistas donde son publicados. Una abundante producción de gráficas y visualizaciones resultan del choque de estas dos posiciones que respaldan en estudios y análisis bibliométricos sus argumentos. En esa guerra de imágenes cientificas, el investigador de a pie debe decidir quién es y cuál es en última instancia su trabajo. 
 
-Biblio-retrato explora la conformación de las identidades académicas a partir de las métricas y analíticas producidas por el trabajo de lectura del investigador. A diferencia de visualizaciones hechas por entidades evaluadoras, por algoritmos de las grandes editoriales o por otros investigadores que toman la producción de sus colegas como objetos de estudio, este proyecto se enfoca específicamente en las métricas y visuales que resultan del trabajo de lectura de textos académicos auqnue este trabajo resulte o no en un producto evaluable. Serán además visualizaciones de datos que están totalmente bajo control del investigador y que él mismo generará. Se parte del supuesto que la lectura constituye una *práctica académica de literacidad*, y, en tanto práctica de literacidad, la lectura de textos científicos influye en la conformación de la identidad como investigador(a).(Ver Calle-Arango et al., 2021; Kirka, 2021).
+Tales datos, métricas y visualizaciones integran el repertorio de representaciones mediadas por código con que los investigadores conforman una huella digital con la que son rastreados por los motores de extracción de datos de sus universidades e instituciones, agencias financiadoras, instancias gubernamentales y las editoriales científicas dominantes. Los investigadores contrarrestan estas narrativas evaluadoras con más presencia y "egosurfing" (Feher, 2021, p. 2) en las redes sociales, tanto académicas como no académicas. 
 
-Para identificar el trabajo de lectura se tomarán las bases bibliográficas donde el investigador gestiona sus fuentes. Concretamente, se trabajará con Zotero por ser un programa de código abierto y de amplia difusión en la comunidad científica. Se desarrollarán o actualizarán plugins que permitirán construir analíticas de las fuentes registradas y de sus usos, así como generar visualizaciones con esos datos. Tales imágenes se superpondrán con una forografía del investigador dando como resultado un "biblio-retrato" que reflejará cómo su presentación como investigador está conformada -al menos en parte- por la relación que guarda con lo que lee.
+Se generan entonces auto-narrativas en resistencia donde también importa lo que los investigadores eligen leer para nutrir su trabajo a la vez que se posicionan en sus áreas de estudio y respecto a sus colegas. Además de su importancia para la propia investigación, la lectura de fuentes constituye una *práctica académica de literacidad* y, como tal, influye en la conformación de la identidad académica del investigador(a).(Ver Calle-Arango et al., 2021; Kirka, 2021).
+
+Biblio-retratos explorará la conformación de las identidades académicas-digitales a partir de código y visualizaciones digitales. Esto es, de las métricas y analíticas producidas por el trabajo de lectura del investigador(a).A diferencia de visualizaciones hechas desde la vigilancia evaluativa, o por otros investigadores que toman la producción de sus colegas como objetos de estudio, este proyecto se enfoca en narrativas visuales que están totalmente bajo control del investigador y que él mismo generará. 
+
+Para identificar el trabajo de lectura se tomarán las bases bibliográficas donde el investigador gestiona sus fuentes. Concretamente, se trabajará con Zotero por ser un programa de código abierto y de amplia difusión en la comunidad científica (actualmente se encuentra traducido a 57 idiomas). Se desarrollarán o actualizarán plugins para Zotero que permitirán construir analíticas de las fuentes registradas y de sus usos, así como generar visualizaciones con esos datos. Tales imágenes se superpondrán con una fotografía del investigador dando como resultado un "biblio-retrato" que reflejará cómo su presentación como investigador está conformada -al menos en parte- por la relación que guarda con lo que lee.
 
 ## Justificación
-El tema de las identidades académicas ha sido escasamente estudiado en la Región Latinoamericana. Los contados estudios realizados en la Región abordan poblaciones de estudiantes de posgrado o investigadores jóvenes en relación a la escritura, no hay entonces estudios de prácticas académicas de lectura.
+El tema de las identidades académicas ha sido escasamente estudiado en la Región Latinoamericana. Los pocos estudios realizados en nuestros países abordan poblaciones de estudiantes de posgrado o investigadores jóvenes en relación a la escritura, hay muy pocos estudios de prácticas académicas de lectura en investigadores en diferentes estadios de su trayectoria profesional. Por otra parte, los estudios sobre identidad digital, de la que se viene hablando hace 20 años, recién empiezan a cobrar notoriedad debido a temas como seguridad de datos personales y a la fuerte presencia de  narrativas personales, selfies y storytelligs en el mundo online, en particular, en las redes sociales. 
 
-Si bien el trabajo de lectura académica es generativo de procesos de investigación, el tema de las métricas que evalúan el trabajo científico, en el contexto del debate ya mencionado para degenerar el trabajo de producción de conocimiento a un tema de puntos, prestigio y recomepensas alejadas al impacto positivo en la mejora del mundo en el que vivimos. Acercar la construcción de métricas sobre una actividad vital para el investigador como es la lectura de textos académicos y científicos es un porporcionar un dispositivo de reflexión.
+El trabajo de lectura académica es generativo de procesos de investigación por lo que ocupa un lugar central en el trabajo de producción de conocimiento.
+Por tanto, la huella que produce es constitutiva de una narrativa identitaria pendiente de estudiarse. 
 
-Por otro lado, al producir imágenes se espera tener un impacto improtante a través de un artefacto estético que lleve a jóevenes estudiantes a reflexionar sobre los usos de las herramientas de investigación y cómo puede un gestor de bibliografía más allá de la utilidad para el cual fue desarrollado, proporcionar datos que nos constituyen como profesionales. 
-
+Por otro lado, al orientar el proyecto a la producción de imágenes (los biblio-retratos) se espera tener un impacto importante a través de un artefacto estético que genere cuestionamientos y reflexión en los jóvenes estudiantes sobre las herramientas que tienen a su alcance y sus posibilidades operativas y narrativas (nos hacen como investigadores pero también nos narran). También interesa mostrar que el conocimiento no solo es creado sino que tiene un correlato visual y sensorial que la ciencia debe asumir.  
 
 ## Aportes
 1. Estímulo a los estudiantes a sistematizar su información bibliográfica a través de software
@@ -146,7 +150,7 @@ Calle-Arango, L., Reyes, N. Á., & Meneses, A. (2021). Construcción y transform
 
 Castelló, M., McAlpine, L., Sala-Bubaré, A., Inouye, K., & Skakni, I. (2021). What perspectives underlie ‘researcher identity’? A review of two decades of empirical studies. Higher Education, 81(3), 567-590. https://doi.org/10.1007/s10734-020-00557-8
 
-D’Ignazio, C., & Klein, L. F. (s. f.). Feminist Data Visualization.
+D’Ignazio, C., & Klein, L. F. (s. f.). Feminist Data Visualization. 
 
 D’Ignazio, C., & Klein, L. F. (2020). Data Feminism. MIT Press.
 
@@ -157,6 +161,16 @@ Dundalk Institute of Technology, Maguire, M., Reynolds, A. E., Dundalk Institute
 Engebretsen, M., & Kennedy, H. (Eds.). (2020). Data Visualization in Society. Amsterdam University Press. https://doi.org/10.5117/9789463722902
 
 Fardella Cisternas, C., García-Meneses, J., Soto Roy, A., & Corvalán-Navia, A. (2021). Exacerbados. Identidades académicas y la transformación de la educación superior chilena. Quaderns de Psicologia, 23(2), e1602. https://doi.org/10.5565/rev/qpsicologia.1602
+
+Feher, K. (2021). Digital identity and the online self: Footprint strategies – An exploratory and comparative research study. Journal of Information Science, 47(2), 192-205. https://doi.org/10.1177/0165551519879702
+
+Fernández-Marcial, V., & González-Solar, L. (2017). Servicios a la investigación en la biblioteca universitaria: Gestión de la identidad digital. LIS Scholarship Archive. https://doi.org/10.31229/osf.io/975e3
+
+García-Peñalvo, F. J. (2018). Identidad digital científica. https://doi.org/10.5281/zenodo.1413335
+
+García-Peñalvo, F. J., Fidalgo-Blanco, Á., Sein-Echaluce, M. L., & Tricas García, F. (2019). La Presencia del Investigador en el Ecosistema Digital de la Ciencia Abierta. Aprendizaje, Innovación y Cooperación como impulsores del cambio metodológico, 498-503. https://doi.org/10.26754/CINAIC.2019.0101
+
+Gómez, S. R. (2021). Signos visuales a escala humana: Una clasificación de métodos de visualización de datos y una reflexión sobre sus alcances para la investigación humanística. Revista de Humanidades Digitales, 6, 64-84. https://doi.org/10.5944/rhd.vol.6.2021.30734
 
 Guzmán-Valenzuela, C., & Martínez Larraín, M. (2016). Tensiones en la construcción de identidades académicas en una universidad chilena. Estudios pedagógicos (Valdivia), 42(3), 191-206. https://doi.org/10.4067/S0718-07052016000400010
 
@@ -169,15 +183,20 @@ Identity Visualization | ForgeRock Identity Platform. (s. f.-b). Recuperado 16 
 Imagen: Text-to-Image Diffusion Models. (s. f.). Recuperado 16 de junio de 2022, de https://imagen.research.google/
 
 Ivanič, R. (1998). Writing and Identity: The discoursal construction of identity in academic writing. John Benjamins. https://doi.org/10.1075/swll.5
+
 Kennedy, H., & Hill, R. L. (2017). The Pleasure and Pain of Visualizing Data in Times of Data Power. Television & New Media, 18(8), 769-782. https://doi.org/10.1177/1527476416667823
 
 Kirca, H. S., & Glover, P. (2021). We are what we read: Reading identity of university students of English language teaching. RumeliDE Dil ve Edebiyat Araştırmaları Dergisi. https://doi.org/10.29000/rumelide.997589
 
+Kohli, M. (2011). Transformation from Identity Stone Age to Digital Identity. https://doi.org/10.5121/ijnsa.2011.3309
+
 Lectura y Escritura para aprender, crecer y transformar: 25 años de la Cátedra UNESCO. (2020). https://www.estudiosdelaescritura.org/uploads/4/7/8/1/47810247/mart%C3%ADnez_sol%C3%ADs_et_al_2020_lectura_y_escritura_para_aprender_crecer_y_transformar.pdf
+
 Lupton, D. (2016). The Quantified Self. John Wiley & Sons.
 
 Nash, K., Trott, V., & Allen, W. (2022). The politics of data visualisation and policy making. Convergence, 28(1), 3-12. https://doi.org/10.1177/13548565221079156
 
+Paloma, M.-A. (2019, diciembre 9). ORCID and your digital identity as a researcher. https://doi.org/10.5281/zenodo.3567268
 Renteria, A. L. (2016). Identidades académicas en cambio en el seno de la universidad multilingüe. Papeles del CEIC, 163-163. https://doi.org/10.1387/pceic.15978
 
 Saharia, C., Chan, W., Saxena, S., Li, L., Whang, J., Denton, E., Ghasemipour, S. K. S., Ayan, B. K., Mahdavi, S. S., Lopes, R. G., Salimans, T., Ho, J., Fleet, D. J., & Norouzi, M. (2022). Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding (arXiv:2205.11487). arXiv. https://doi.org/10.48550/arXiv.2205.11487
@@ -188,18 +207,22 @@ Text-to-Image Generation. (s. f.). Recuperado 16 de junio de 2022, de https://v
 
 Valle, C. S. D. (s. f.). RETOS Y DESAFÍOS DE LOS INVESTIGADORES DE LA FORMACIÓN DE INVESTIGADORES EN EDUCACIÓN. 30.
 
-varios, E. E. P., S. L. ,Antoni Gutiérrez-Rubí. (s. f.). Infografías, visualizaciones y política. Micropolítica. Recuperado 16 de junio de 2022, de https://blogs.elpais.com/micropolitica/2012/04/infografias-visualizaciones-y-politica.html
+Varios, E. E. P., S. L. ,Antoni Gutiérrez-Rubí. (s. f.). Infografías, visualizaciones y política. Micropolítica. Recuperado 16 de junio de 2022, de https://blogs.elpais.com/micropolitica/2012/04/infografias-visualizaciones-y-politica.html
+
+Vélez-Cuartas, G., Suárez-Tamayo, M., Jaramillo-Guevara, L., & Gutiérrez, G. (2021). Nuevo modelo de métricas responsables para medir el desempeño de revistas científicas en la construcción de comunidad: El caso de Redes. Redes. Revista hispana para el análisis de redes sociales, 32(2), 110-152. https://doi.org/10.5565/rev/redes.919
 
 Viewpoint: The Politics of Data Visualisation. (2015, agosto 3). Discover Society. https://archive.discoversociety.org/2015/08/03/viewpoint-the-politics-of-data-visualisation/
 
 Visualize your Identity! (s. f.). Google Arts & Culture. Recuperado 16 de junio de 2022, de https://artsandculture.google.com/asset/visualize-your-identity/zwEw6Mt80lL91w
 
 Visualizing Identity. (s. f.). Chrissy Brimmage. Recuperado 16 de junio de 2022, de http://www.chrissybrimmage.com/visualizing-identity
+
 Xiong, C., Shapiro, J., Hullman, J., & Franconeri, S. (2020). Illusion of Causality in Visualized Data. IEEE Transactions on Visualization and Computer Graphics, 26(1), 853-862. https://doi.org/10.1109/TVCG.2019.2934399
 
 Xu, T., Zhang, P., Huang, Q., Zhang, H., Gan, Z., Huang, X., & He, X. (2018). AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks. 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 1316-1324. https://doi.org/10.1109/CVPR.2018.00143
 
 Zakraoui, J., Saleh, M., Al-Maadeed, S., & Jaam, J. M. (2021). Improving text-to-image generation with object layout guidance. Multimedia Tools and Applications, 80(18), 27423-27443. https://doi.org/10.1007/s11042-021-11038-0
+
 
 ## Narrativa visual a partir de biblio-retratos simulados con fines demostrativos
 
