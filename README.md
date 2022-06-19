@@ -1,10 +1,10 @@
 # Biblio-retratos. Visualizando identidades académicas 
                          Un proyecto de Humanidades Digitales en construcción 
 ## Descripción breve
-Proyecto de visualización que busca complementar un retrato fotográfico estándar con las visualizaciones de analíticas un gestor personal de referencias bibliográficas.  Esta superposición explora digitalmente la identidad acádemica en relación con el trabajo de lectura profesional realizado. ¿Somos lo que leemos? ¿En dónde se ubica ese cúmulo de lecturas bibliográficas respecto a nuestra propia presentación como investigadores? 
-Se trata de un proyecto híbrido que desarrollará plugins de minería de textos y visualización para Zotero [^1], generación de imágenes superpuestas a través de IA, así como el diseño de galerías fotográficas en web de donde el usuario podrá elegir arreglos o superposiciones fotográficas que representen mejor la forma cómo se relaciona con lo que leee. 
+Proyecto de visualización que busca complementar un retrato fotográfico estándar con las analíticas visuales de un gestor personal de referencias bibliográficas.  Esta superposición explora la identidad acádemica en el espacio digital en relación con el trabajo de lectura profesional realizado. ¿Somos lo que leemos? ¿En dónde se ubica ese cúmulo de lecturas respecto a nuestra propia presentación como investigadores? 
+Se trata de un proyecto híbrido que desarrollará plugins de minería de textos y visualización para Zotero[^1], así como código para la generación de imágenes superpuestas, también diseñará  galerías fotográficas en web de donde el usuario podrá elegir arreglos o composiciones fotográficas que representen mejor la forma cómo lo que lee lo constituye. 
 ## Palabras clave
-identidades académicas | analítica visual | prácticas académicas | literacidad | identidad digital | Zotero.
+identidades académicas | analítica visual | prácticas académicas | literacidad | identidad digital |Zotero.
 
 
 <img width="484" alt="Captura de Pantalla 2022-06-17 a la(s) 1 39 34" src="https://user-images.githubusercontent.com/69394840/174241124-ad4216f9-5db3-4d9f-9353-782ed7f856ed.png">
@@ -71,7 +71,7 @@ Se trata de un punto crítico pues el biblio-retrato depende de las actualizacio
 3. UnX diseñadorX Transmedia. 
 ## Influencias de proyectos HD
 Proyectos en HD: 
-1. “Intercambios oceánicos” https://oceanicexchanges.org/mx/  En la lectura del proyecto, se encontró la realización de un taller donde se generaron mapas a partir de bases de Zotero previamente depuradas con OpenRefine. Soy una usuario frecuente y entusiasta de Zotero y este proyecto me puso en la ruta de pensar en visualizaciones a partir del contenido de las bases bibliográficas y del uso que se les da.
+1. “Intercambios oceánicos” https://oceanicexchanges.org/mx/  En la lectura del proyecto, se encontró la realización de un taller donde se generaron mapas a partir de bases de Zotero previamente depuradas con OpenRefine. Soy una usuario frecuente y entusiasta de Zotero y este proyecto me puso en la ruta de pensar en visualizaciones a partir del contenido de las bases bibliográficas y del uso que se les da, tales como nubes de frecuencias de autores más registrados, procedencia editorial de las fuentes, etiquetas más frecuentes, frecuencia de años de edición, etc.
 2. “I ♥ E-Poetry” https://iloveepoetry.org/  Es un proyecto muy estético que funde el lenguaje de la poesía con las capacidades evocadoras de la manipulación visual de textos digitales. Esto me llevó a pensar en las posibilidades expresivas de juntar datos provenientes del mundo no-digital con el propiamente digital y buscar no solo lo que te permite ver el conocimiento, sino cómo se ve él mismo. 
 
 Otros proyectos No-HD que exploran computacionalmente la generación de imágenes a partir de textos:
