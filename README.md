@@ -48,6 +48,7 @@ Por otro lado, al orientar el proyecto a la producción de imágenes (los biblio
 8. Desarrollo de código en el terreno de la IA para la generación de imágenes a partir de análiticas
 9. Desarrollo de código para la superposición y composición de imágenes agregadas vía web.
 10. Sensibilización sobre el tema de las identidades académicas y el papel político de las visualizaciones y métricas.
+11. Tiene el potencial de proponer un indicador más en la productividad científica incluyendo la etapa previa y ardua de revisión y lectura de fuentes.
 
 
 ## Estrategia de documentacion
