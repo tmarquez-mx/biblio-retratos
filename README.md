@@ -7,7 +7,7 @@ Se trata de un proyecto híbrido que desarrollará plugins de minería de textos
 identidades académicas | analítica visual | prácticas académicas | literacidad | identidad digital |Zotero.
 
 
-<img width="484" alt="Captura de Pantalla 2022-06-17 a la(s) 1 39 34" src="https://user-images.githubusercontent.com/69394840/174241124-ad4216f9-5db3-4d9f-9353-782ed7f856ed.png">
+<img width="484" alt="Captura de Pantalla 2022-06-17 a la(s) 1 39 34" src="https://user-images.githubusercontent.com/69394840/174241124-ad4216f9-5db3-4d9f-9353-782ed7f856ed.png">     
 
 [^1]: Herramientas como Paper Machine y Zotero Voyant Export no han sido actualizadas a las últimas versiones de Zotero pero sus códigos están disponibles en Github. https://github.com/papermachines/papermachines; https://github.com/corajr/zotero-voyant-export/
 ## Objetivo general
@@ -226,10 +226,7 @@ Xu, T., Zhang, P., Huang, Q., Zhang, H., Gan, Z., Huang, X., & He, X. (2018). At
 Zakraoui, J., Saleh, M., Al-Maadeed, S., & Jaam, J. M. (2021). Improving text-to-image generation with object layout guidance. Multimedia Tools and Applications, 80(18), 27423-27443. https://doi.org/10.1007/s11042-021-11038-0
 
 
-## Narrativa visual a partir de biblio-retratos simulados con fines demostrativos
+## Simulación del proceso
 
-![2](https://user-images.githubusercontent.com/69394840/174241987-1a715f1a-dcd7-4daf-ade6-54eea2a66c7d.png)
-![3](https://user-images.githubusercontent.com/69394840/174241994-72476eef-c74f-45ce-8176-5b766212b902.png)
+<img width="449" alt="Captura de Pantalla 2022-06-20 a la(s) 23 13 08" src="https://user-images.githubusercontent.com/69394840/174714753-93a6c711-81e6-40c6-9ca2-c9819b6ada3f.png">
 
-![4](https://user-images.githubusercontent.com/69394840/174242003-044b17f2-6fca-4985-a65a-39991deedfc2.png)
-![1](https://user-images.githubusercontent.com/69394840/174241971-b36a6d0b-ec9d-4976-a76b-e0334d41ce0d.png)
