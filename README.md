@@ -7,7 +7,8 @@ Se trata de un proyecto híbrido que desarrollará plugins de minería de textos
 identidades académicas | analítica visual | prácticas académicas | literacidad | identidad digital |Zotero.
 
 
-<img width="484" alt="Captura de Pantalla 2022-06-17 a la(s) 1 39 34" src="https://user-images.githubusercontent.com/69394840/174241124-ad4216f9-5db3-4d9f-9353-782ed7f856ed.png">     
+<p align="center">
+  <img width="484" alt="Captura de Pantalla 2022-06-17 a la(s) 1 39 34" src="https://user-images.githubusercontent.com/69394840/174241124-ad4216f9-5db3-4d9f-9353-782ed7f856ed.png"> 
 
 [^1]: Herramientas como Paper Machine y Zotero Voyant Export no han sido actualizadas a las últimas versiones de Zotero pero sus códigos están disponibles en Github. https://github.com/papermachines/papermachines; https://github.com/corajr/zotero-voyant-export/
 ## Objetivo general
@@ -141,6 +142,10 @@ Como resultado final se pueden considerar participaciones en reuniones académic
 6. Capturar foto retratos
 7. Fundir ambas imágenes
 
+## Simulación 
+<p align="center">
+<img width="449" alt="Captura de Pantalla 2022-06-20 a la(s) 23 13 08" src="https://user-images.githubusercontent.com/69394840/174714753-93a6c711-81e6-40c6-9ca2-c9819b6ada3f.png">
+
 ## Fuentes relevantes identificadas
 Allen, W. L. (2021). The conventions and politics of migration data visualizations. New Media & Society, 14614448211019300. https://doi.org/10.1177/14614448211019300
 
@@ -224,9 +229,4 @@ Xiong, C., Shapiro, J., Hullman, J., & Franconeri, S. (2020). Illusion of Causal
 Xu, T., Zhang, P., Huang, Q., Zhang, H., Gan, Z., Huang, X., & He, X. (2018). AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks. 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 1316-1324. https://doi.org/10.1109/CVPR.2018.00143
 
 Zakraoui, J., Saleh, M., Al-Maadeed, S., & Jaam, J. M. (2021). Improving text-to-image generation with object layout guidance. Multimedia Tools and Applications, 80(18), 27423-27443. https://doi.org/10.1007/s11042-021-11038-0
-
-
-## Simulación del proceso
-
-<img width="449" alt="Captura de Pantalla 2022-06-20 a la(s) 23 13 08" src="https://user-images.githubusercontent.com/69394840/174714753-93a6c711-81e6-40c6-9ca2-c9819b6ada3f.png">
 
