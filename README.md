@@ -11,7 +11,33 @@ identidades académicas | analítica visual | prácticas académicas | literacid
   <img width="484" alt="Captura de Pantalla 2022-06-17 a la(s) 1 39 34" src="https://user-images.githubusercontent.com/69394840/174241124-ad4216f9-5db3-4d9f-9353-782ed7f856ed.png"> 
 
 [^1]: Herramientas como Paper Machine y Zotero Voyant Export no han sido actualizadas a las últimas versiones de Zotero pero sus códigos están disponibles en Github. https://github.com/papermachines/papermachines; https://github.com/corajr/zotero-voyant-export/
-## Objetivo general
+
+## Tabla de contenido
+
+    Objetivo general
+        Obejivos específicos
+    Antecedentes
+        Marked / Remark
+    Justificación
+        Aportes
+    Estrategias de documentación
+    Revisión y evaluación académica
+    Experticias necesarias
+    Equipo  
+    Influencias de proyectos HD
+    Herramientas
+    Procedimiento del usuario
+    Recursos en revisión (en proceso)
+    Acceso y sustentabilidad
+    Productos esperables
+    Licencia
+    Procedimiento para maqueta
+    Maqueta
+    Fuentes relevantes identificadas
+        
+  
+  
+  ## Objetivo general
 Posibilitar la autogeneración de visualizaciones --mediante desarrollo de código-- de las analíticas sobre las prácticas personales de lectura académica como componentes de la identidad del investigador universitario.
 ## Objetivos específicos
 1. Explorar conceptualmente la configuración de identidades académicas digitales en relación a las métricas y visualizaciones de prácticas académicas de lectura
@@ -133,7 +159,7 @@ Como resultado final se pueden considerar participaciones en reuniones académic
 <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p> 
 <img width="965" alt="Captura de Pantalla 2022-06-11 a la(s) 21 00 29" src="https://user-images.githubusercontent.com/69394840/173211143-62becfaf-af07-4c53-9b94-302b48ec98c8.png">
 
-## Procedimiento para maqueta (en proceso)
+## Procedimiento para maqueta
 1. Limpieza de la base Zotero con OpenRefine 
 2. Separación del corpus en las columnas de un CSV utilizando delimitadores.
 3. Extracción de columnas: título; autor; fechas; lugar de edición; subcolección. Separación del campo autor para extraer solo apellidos.
@@ -142,7 +168,7 @@ Como resultado final se pueden considerar participaciones en reuniones académic
 6. Capturar foto retratos
 7. Fundir ambas imágenes
 
-## Simulación 
+## Maqueta 
 <p align="center">
 <img width="449" alt="Captura de Pantalla 2022-06-20 a la(s) 23 13 08" src="https://user-images.githubusercontent.com/69394840/174714753-93a6c711-81e6-40c6-9ca2-c9819b6ada3f.png">
 
