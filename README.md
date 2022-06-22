@@ -17,7 +17,6 @@ identidades académicas | analítica visual | prácticas académicas | literacid
     Objetivo general
         Obejivos específicos
     Antecedentes
-        Marked / Remark
     Justificación
         Aportes
     Estrategias de documentación
