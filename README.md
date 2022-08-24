@@ -25,9 +25,9 @@ identidades académicas | analítica visual | prácticas académicas | literacid
 Posibilitar la autogeneración de visualizaciones --mediante desarrollo de código-- de las analíticas sobre las prácticas personales de lectura académica como componentes de la identidad del investigador universitario.
 ## Objetivos específicos
 1. Explorar conceptualmente la configuración de identidades académicas digitales en relación a las métricas y visualizaciones de prácticas académicas de lectura
+2. Estudiar la estructura algorítmica de Zotero
 2. Desarrollar y/o actualizar plugins de minería de textos y de visualización para el gestor bibliográfico Zotero
-3. Escribir código de software para la generación de imágenes combinadas y superpuestas tipo retrato en plataforma web
-4. Normalizar procesos y metodologías de documentación de la investigación así como protocolos para la apertura de sus datos
+3. Escribir código  para la generación de imágenes combinadas y superpuestas tipo retrato en plataforma web
 
 ## Antecedentes
 El trabajo de investigación realizado por los académicos en las universidades, es evaluado en términos de productividad científica que se expresa en indicadores y métricas. Se trata de un tema en pleno debate donde aparecen por un lado las grandes editoriales científicas que buscan imponer el factor de impacto como medida hegemónica y, por el otro lado, se encuentran diferentes grupos más académicos (i.e. DORA, la propia UNESCO y Folec-CLACSO en Latinoamérica) que defienden métricas responsables que atiendan a la calidad de los resultados de la investigación y no al prestigio de las revistas donde son publicados. Una abundante producción de gráficas y visualizaciones resultan del choque de estas dos posiciones que respaldan en estudios y análisis bibliométricos sus argumentos. En esa guerra de imágenes cientificas, el investigador de a pie debe decidir quién es y cuál es en última instancia su trabajo. 
