@@ -1,8 +1,13 @@
 # Biblio-retratos. Visualizando identidades académicas 
-                         Un proyecto de Humanidades Digitales en construcción 
+                         
 ## Descripción breve
-Proyecto de visualización que busca complementar un retrato fotográfico estándar con las analíticas visuales de un gestor personal de referencias bibliográficas.  Esta superposición explora la identidad acádemica en el espacio digital en relación con el trabajo de lectura profesional realizado. ¿Somos lo que leemos? ¿En dónde se ubica ese cúmulo de lecturas respecto a nuestra propia presentación como investigadores? 
-Se trata de un proyecto híbrido que desarrollará plugins de minería de textos y visualización para Zotero[^1], así como código para la generación de imágenes superpuestas, también diseñará  galerías fotográficas en web de donde el usuario podrá elegir arreglos o composiciones fotográficas que representen mejor la forma cómo lo que lee lo constituye. 
+Proyecto generativo texto-imagen mediante IA. Se busca generar analíticas del manejador bibliográfico Zotero (de código abierto) y visualizarlos. Tales visualizaciones dan información sobre el trabajo profesional de lecturas e influencias bibliográficas de académicos a lo largo del tiempo. Superponerlas con sus retratos personales mediante una galería de layouts supone una reflexión sobre la identidad académica. El proyecto tiene tres momentos con sus productos respectivos:  
+a) Generación de analíticas de bases de datos bibliográficas; 
+b) Generación de visualizaciones de tales analíticas; 
+c) Generación de biblio-retratos.
+El proyecto generará: 1) conocimiento en términos de desarrollo de código y artículos sobre identidades académicas digitales. 2) Plugins que se pondrán al servicio de la comunidad usuaria de Zotero alrededor del mundo. 3) Un servicio basado en web donde usuarios de zotero podrán relacionar sus analíticas y visualizaciones con un retrato personal. 
+
+
 ## Palabras clave
 identidades académicas | analítica visual | prácticas académicas | literacidad | identidad digital |Zotero.
 
