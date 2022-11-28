@@ -156,6 +156,17 @@ Como resultado final se pueden considerar participaciones en reuniones académic
 <p align="center">
 <img width="449" alt="Captura de Pantalla 2022-06-20 a la(s) 23 13 08" src="https://user-images.githubusercontent.com/69394840/174714753-93a6c711-81e6-40c6-9ca2-c9819b6ada3f.png">
 
+![base_zotero](https://user-images.githubusercontent.com/69394840/204355163-9eca3b0c-bf36-40ec-92a2-3690b6778c3a.PNG)
+
+![base_zotero_excel](https://user-images.githubusercontent.com/69394840/204355176-a632ab7b-7e44-4e98-a006-2256eb3223de.PNG)
+
+
+![base_zotero_voyant](https://user-images.githubusercontent.com/69394840/204355183-2c901045-9248-4ee7-a27c-c6d52c3d47a6.PNG)
+
+
+
+
+
 ## Fuentes relevantes identificadas
 Allen, W. L. (2021). The conventions and politics of migration data visualizations. New Media & Society, 14614448211019300. https://doi.org/10.1177/14614448211019300
 
