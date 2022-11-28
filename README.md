@@ -163,8 +163,13 @@ Como resultado final se pueden considerar participaciones en reuniones académic
 
 ![base_zotero_voyant](https://user-images.githubusercontent.com/69394840/204355183-2c901045-9248-4ee7-a27c-c6d52c3d47a6.PNG)
 
+![2](https://user-images.githubusercontent.com/69394840/204355731-b90fd6f9-13b8-4d6d-b4d3-771b77d5d399.png)
 
+![4](https://user-images.githubusercontent.com/69394840/204355997-33b9b1ec-a93f-4320-a764-e5ff9adae063.png)
 
+![3](https://user-images.githubusercontent.com/69394840/204355769-55451777-20db-4085-b60a-550c843e0001.png)
+
+![Biblio-retrato_TM1](https://user-images.githubusercontent.com/69394840/204355791-69716719-b9aa-4a52-89b4-694ba1694eb2.jpg)
 
 
 ## Fuentes relevantes identificadas
