@@ -256,3 +256,7 @@ Xu, T., Zhang, P., Huang, Q., Zhang, H., Gan, Z., Huang, X., & He, X. (2018). At
 
 Zakraoui, J., Saleh, M., Al-Maadeed, S., & Jaam, J. M. (2021). Improving text-to-image generation with object layout guidance. Multimedia Tools and Applications, 80(18), 27423-27443. https://doi.org/10.1007/s11042-021-11038-0
 
+
+## Plugins existentes / desuso
+1. SEASR analytics plugin. 2009 (analíticas)
+2. Papermachines. Sin mantenimiento desde 2017.   https://github.com/papermachines/papermachines (visualización)
