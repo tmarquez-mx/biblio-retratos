@@ -258,5 +258,5 @@ Zakraoui, J., Saleh, M., Al-Maadeed, S., & Jaam, J. M. (2021). Improving text-to
 
 
 ## Plugins existentes / desuso
-1. SEASR analytics plugin. 2009 (analíticas)
+1. SEASR analytics plugin. 2009. https://www.seasr.org/documentation/seasr-analytics-for-zotero/ (analíticas)
 2. Papermachines. Sin mantenimiento desde 2017.   https://github.com/papermachines/papermachines (visualización)
