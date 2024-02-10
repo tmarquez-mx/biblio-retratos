@@ -66,7 +66,7 @@ Fase 2
 | <!-- -->      | <!-- -->        | 
 |:-------------|:---------------|
 | Enero       | Cierre de primera fase, entrega y presentación pública preliminar | 
-| Febrero        | Gestión de servidor para beta pública |
+| Febrero        | Gestión de servidor para beta pública. Evaluación de Dpto. de Informática. Adecuaciones de seguridad |
 | Marzo        | Lanzamiento beta pública. Divulgación en Forum Zotero y redes (pendiente| 
 | Abril       | Presentacioens pública (pendiente)  | 
 | Mayo        |  | 
