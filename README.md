@@ -43,7 +43,7 @@ Fase 2
 
 
 # Créditos
-[Teresa Márquez](https://socialesypoliticas.ibero.mx/TeresaMarquez/), investigadora / [Xavier Tortorelo](https://www.gtsf.com.mx/), desarrollador.
+[Teresa Márquez](https://socialesypoliticas.ibero.mx/TeresaMarquez/), investigadora / [Xavier Tortolero](https://www.gtsf.com.mx/), desarrollador.
 
 
 
