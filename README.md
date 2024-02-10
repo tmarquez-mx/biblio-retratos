@@ -1,10 +1,47 @@
 # Biblio-retratos. Visualizando identidades académicas 
 Una reinterpretación de Zotero como dispositivo para documentar nuestra identidad académica desde la literacidad. 
                          
-## Descripción 
-Biblio-retratos es una aplicación web que permite a usuarios de Zotero (un manejador bibliográfico de código abierto de uso muy extendido en la comunidad académica alrededor del mundo), obtener diferentes analíticas y visualizaciones sobre sus prácticas de literacidad. Esto es, sobre sus habilidades, trabajo y trayectoria en la recolección y procesamiento de fuentes bibliográficas. Actividades que además de consumir gran cantidad de tiempo a lo largo de nuestras carreras, reflejan nuestras pertenencias, disposiciones y distancias teórico-metodológicos conformando parte importante de nuestra identidad académica. Biblo-retratos (o ZOtero-BR) es un proyecto de Humanidades Digitales que en 2023 recibió financiamiento de la División de Investigación y Posgrado de la Universidad Iberoamericana Ciudad de México. 
+## Descripción narrativa
+Biblio-retratos es una aplicación web que permite a usuarios de Zotero (un manejador bibliográfico de código abierto de uso muy extendido en la comunidad académica alrededor del mundo), obtener diferentes analíticas y visualizaciones sobre sus prácticas de literacidad. Esto es, sobre sus habilidades, trabajo y trayectoria en la recolección y procesamiento de fuentes bibliográficas. Actividades que además de consumir gran cantidad de tiempo a lo largo de nuestras carreras, reflejan nuestras pertenencias, disposiciones y distancias teórico-metodológicos conformando parte importante de nuestra identidad académica. Biblo-retratos (o Zotero-BR) es un proyecto de Humanidades Digitales. En 2023 recibió financiamiento la División de Investigación y Posgrado de la Universidad Iberoamericana, Ciudad de México. 
+
+## Descripción operativa
+
+Biblio-retratos comunica al usuario con su base de datos bibliográfica alojada en el servidor de Zotero (si la base se encuentra en otro repositorio, la comunicación no será posible). 
+Al dar de alta al usuario en BR, se solicitará por única vez el ID User y el Private Key de la cuenta de usuario de Zotero (Ver Instrucciones).
+Las consultas las podrá realizar por tipo de elemento (i.e book. book section, jorunal, etc.)  o por las subcolecciones que tenga en su biblioteca. También podrá relizarlas en toda la base si no selecciona ningún tipo de elemento no subcolección.
+Los campos que se puede solicitar visualizar son: autor, lugar de edición, año de edición, año de adición, palabra clave, tipo de elemento. Nota: Debido a que BR obtiene la información de la base de datos remota las palabras clave pueden no corresponder a las que el usuario visualiza en su aplicación Zotero de escritorio. Para verificar y depurar sus palabras clave (Tags), dirigirse a la versión web de Zotero.
+Es posible que la consulta se solicite por años, por lustros, por décadas, o cada X cantidad de años, o en un rango de años de interés. De no especificar ninguna opción, la consulta se hará en todos los registros.
+
+
+## Palabras clave
+identidades académicas | analítica visual | prácticas académicas | literacidad | identidad digital |Zotero.
 
 Actualmente la primera fase del proyecto se encuentra en beta pública.
+
+# Funciones habilitadas (tasks)
+Fase 1 (concluida y operativa). No requiere instalación. Operación vía web.
+
+- Comunicación con Zotero
+- Consultas
+- Despliegue de información
+- Exportación .CVS
+- Visualización
+- Exportación .png
+
+# Funciones futuras (tasks)
+
+Fase 2
+- Carga de imagen o fotografia (retrato)
+- Galería de layouts
+- Generación de biblio-retrato
+- Exportación
+
+
+# Seguridad
+
+
+# Créditos
+Teresa Márquez, investigadora / Xavier Tortorelo, desarrollador.
 
 
 (comunicarse con su base de datos bibliográficos remota y realizar consultas sobre 
@@ -16,8 +53,7 @@ c) Generación de biblio-retratos.
 El proyecto generará: 1) conocimiento en términos de desarrollo de código y escritura artículos sobre identidades académicas digitales. 2) Plugins que se pondrán al servicio de la comunidad usuaria de Zotero alrededor del mundo. 3) Un servicio basado en web donde usuarios de zotero podrán relacionar sus analíticas y visualizaciones con un retrato personal. 
 
 
-## Palabras clave
-identidades académicas | analítica visual | prácticas académicas | literacidad | identidad digital |Zotero.
+
 
 
 <p align="center">
