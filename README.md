@@ -65,15 +65,15 @@ Fase 2
 
 | <!-- -->      | <!-- -->        | 
 |:-------------|:---------------|
-| Abril         | Aprobación financimiento  DINV, Ibero.       | 
-| Mayo         |  Formación de equipo de trabajo     |
-| Junio         | Análisis y rediseño: de plugin a aplicación web  | 
-| Julio        |   | 
-| Agosto         |   | 
-| Septiembre        |  | 
-| Octubre        |   | 
-| Noviembre        |   | 
-| Diciembre        |  | 
+| Enero       | Aprobación financimiento  DINV, Ibero.       | 
+| Febrero        |  Formación de equipo de trabajo     |
+| Marzo        | Análisis y rediseño: de plugin a aplicación web  | 
+| Abril       |   | 
+|         |   | 
+|         |  | 
+|        |   | 
+|        |   | 
+|         |  | 
 
 
 
