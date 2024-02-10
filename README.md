@@ -18,7 +18,7 @@ identidades académicas | analítica visual | literacidad | Humanidades Digitale
 
 
 # Funciones habilitadas (tasks)
-Fase 1 (concluida y operativa). No requiere instalación. Operación vía web.
+Fase 1 Concluida y operativa. No requiere instalación. Operación vía web.
 Actualmente en beta pública.
 
 - Comunicación con Zotero
