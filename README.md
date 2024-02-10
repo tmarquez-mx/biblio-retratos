@@ -19,6 +19,7 @@ identidades académicas | analítica visual | prácticas académicas | literacid
 
 # Funciones habilitadas (tasks)
 Fase 1 (concluida y operativa). No requiere instalación. Operación vía web.
+Actualmente en beta pública.
 
 - Comunicación con Zotero
 - Consultas
