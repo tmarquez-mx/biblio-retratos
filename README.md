@@ -57,9 +57,9 @@ Fase 2
 | Julio        | Catálogo de funciones. Gestiones logísticas y financieras | 
 | Agosto         | Pruebas de comunicación con base de datos   | 
 | Septiembre        | Diseño y desarrolo de consultas | 
-| Octubre        | Pruebas, evaluación y aprobación | 
+| Octubre        | Pruebas, evaluación y aprobación del módulo consultas| 
 | Noviembre        | Diseño y desarrollo de visualizaciones | 
-| Diciembre        | evaluación y aprobación| 
+| Diciembre        | Pruebas, evaluación y aprobación del módulo visualización| 
 
 ### 2024 : beta y producción ###
 
