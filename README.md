@@ -53,7 +53,7 @@ Fase 2
 |:-------------|:---------------|
 | Abril         | Aprobación financimiento  DINV, Ibero.       | 
 | Mayo         |  Formación de equipo de trabajo     |
-| Junio         | Análisis y rediseño: de plugin a aplicación web  | 
+| Junio         | Análisis y rediseño: de plugin a aplicación web. Coordinaciones con Cómputo Académico  | 
 | Julio        | Catálogo de funciones. Gestiones logísticas y financieras | 
 | Agosto         | Pruebas de comunicación con base de datos   | 
 | Septiembre        | Diseño y desarrolo de consultas | 
