@@ -54,22 +54,21 @@ Fase 2
 | Abril         | Aprobación financimiento  DINV, Ibero.       | 
 | Mayo         |  Formación de equipo de trabajo     |
 | Junio         | Análisis y rediseño: de plugin a aplicación web  | 
-| Julio        | Catálogo de funciones
-Gestiones logísticas y financieras | 
-| Agosto         | Gestiones logísticas y financieras   | 
-| Septiembre        | Pruebas de comunicación con base de datos | 
-| Octubre        | Diseño de consultas  | 
-| Noviembre        | Desarrollo de consultas  | 
-| Diciembre        | Pruebas | 
+| Julio        | Catálogo de funciones. Gestiones logísticas y financieras | 
+| Agosto         | Pruebas de comunicación con base de datos   | 
+| Septiembre        | Diseño y desarrolo de consultas | 
+| Octubre        | Pruebas, evaluación y aprobación | 
+| Noviembre        | Diseño y desarrollo de visualizaciones | 
+| Diciembre        | evaluación y aprobación| 
 
 ### 2024 : beta y producción ###
 
 | <!-- -->      | <!-- -->        | 
 |:-------------|:---------------|
-| Enero       | Aprobación financimiento  DINV, Ibero.       | 
-| Febrero        |  Formación de equipo de trabajo     |
-| Marzo        | Análisis y rediseño: de plugin a aplicación web  | 
-| Abril       |   | 
+| Enero       | Cierre de primera fase, entrega y presentación pública preliminar | 
+| Febrero        | Gestión de servidor para beta pública |
+| Marzo        | Lanzamiento beta pública. Divulgación en Forum Zotero y redes (pendiente| 
+| Abril       | Presentacioens pública (pendiente)  | 
 | Mayo        |  | 
 | Junio        |  | 
 | Julio       |   | 
