@@ -36,16 +36,37 @@ Fase 2
 - Generación de biblio-retrato
 - Exportación
 
-
 # Seguridad
 - Biblio-retratos no almacena contenido proveniente de la base de datos del usuario en Zotero. Solo facilita la comunicación entre ambos. 
 - Los datos de correo electrónico, Zotero User Id y Zotero Private Key está protegidos por ley. Ver [Aviso de privacidad](https://ibero.mx/sites/all/themes/ibero/descargables/avisos-legales/2024/estudiantes-ingles.pdf)
 
-
 # Créditos
 [Teresa Márquez](https://socialesypoliticas.ibero.mx/TeresaMarquez/), investigadora / [Xavier Tortolero](https://www.gtsf.com.mx/), desarrollador.
 
+# Historia #
 
+### 2023 ###
+
+
+1 
+2
+3
+4
+5
+
+	
+
+| <!-- -->      | <!-- -->        | <!-- -->      |
+|:-------------:|:---------------:|:-------------:|
+| Row 1         | **Bold**        | Cell 3        |
+| Row 2         | *Italic*        | Cell 6        |
+| Row 3         | ~~Strike~~      | Cell 9        |
+
+
+Abril      : Inicio de Financimiento por parte de la DINV, Ibero.
+Abril-mayo : Conformación de equipo
+Mayo       : Análisis previo
+Junio      : Replanteamiento de plugin a aplicación web
 
 
 
