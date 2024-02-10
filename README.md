@@ -54,12 +54,13 @@ Fase 2
 | Abril         | Aprobación financimiento  DINV, Ibero.       | 
 | Mayo         |  Formación de equipo de trabajo     |
 | Junio         | Análisis y rediseño: de plugin a aplicación web  | 
-| Julio        |   | 
-| Agosto         |   | 
-| Septiembre        |  | 
-| Octubre        |   | 
-| Noviembre        |   | 
-| Diciembre        |  | 
+| Julio        | Catálogo de funciones
+Gestiones logísticas y financieras | 
+| Agosto         | Gestiones logísticas y financieras   | 
+| Septiembre        | Pruebas de comunicación con base de datos | 
+| Octubre        | Diseño de consultas  | 
+| Noviembre        | Desarrollo de consultas  | 
+| Diciembre        | Pruebas | 
 
 ### 2024 : beta y producción ###
 
@@ -69,11 +70,11 @@ Fase 2
 | Febrero        |  Formación de equipo de trabajo     |
 | Marzo        | Análisis y rediseño: de plugin a aplicación web  | 
 | Abril       |   | 
-|         |   | 
-|         |  | 
-|        |   | 
-|        |   | 
-|         |  | 
+| Mayo        |  | 
+| Junio        |  | 
+| Julio       |   | 
+| Agosto       |   | 
+| Septiembre   |  | 
 
 
 
