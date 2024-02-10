@@ -67,13 +67,13 @@ Fase 2
 |:-------------|:---------------|
 | Enero       | Cierre de primera fase, entrega y presentación pública preliminar | 
 | Febrero        | Gestión de servidor para beta pública. Evaluación de Dpto. de Informática. Adecuaciones de seguridad |
-| Marzo        | Lanzamiento beta pública. Divulgación en Forum Zotero y redes (pendiente| 
-| Abril       | Presentacioens pública (pendiente)  | 
-| Mayo        |  | 
-| Junio        |  | 
-| Julio       |   | 
-| Agosto       |   | 
-| Septiembre   |  | 
+| Marzo        | Lanzamiento beta pública. Divulgación en Forum Zotero y redes (en preparación| 
+| Abril       | Presentacioens pública (en preparación)  | 
+| Mayo        |Diseño y registro de marca (pendiente) | 
+| Junio        |Sistematización de comentarios y evaluaciones (pendiente) | 
+| Julio       | Propuestas para financiamiento de mejores y etapa 2 (peendiente)  | 
+| Agosto       |Artpiculo académico  | 
+| Septiembre   | ¿RIP? | 
 
 
 
@@ -81,9 +81,14 @@ Fase 2
 
 
 # Diseño y registro de imagen de marca
-
 En proceso
 
+# Agradecimientos
+Dirección de Investigación y Posgrado, Ibero
+Cómputo Académico, Ibero
+Andrés Tortolero, Ingeniería de Datos, Ibero
+Jorge Angel González, INIAT, Ibero
+Informática, Ibero
 
 
 
