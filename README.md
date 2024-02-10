@@ -43,7 +43,7 @@ Fase 2
 
 
 # Créditos
-Teresa Márquez, investigadora / Xavier Tortorelo, desarrollador.
+[Teresa Márquez](https://socialesypoliticas.ibero.mx/TeresaMarquez/), investigadora / Xavier Tortorelo, desarrollador.
 
 
 (comunicarse con su base de datos bibliográficos remota y realizar consultas sobre 
