@@ -48,25 +48,20 @@ Fase 2
 ### 2023 ###
 
 
-1 
-2
-3
-4
-5
 
-	
+| <!-- -->      | <!-- -->        | 
+|:-------------|:---------------|
+| Abril         | Aprobación financimiento  DINV, Ibero.       | 
+| Mayo         |  Formación de equipo de trabajo     |
+| Junio         | Análisis y rediseño: de plugin a aplicación web  | 
+| Julio        |   | 
+| Agosto         |   | 
+| Septiembre        |  | 
+| Octubre        |   | 
+| Noviembre        |   | 
+| Diciembre        |  | 
 
-| <!-- -->      | <!-- -->        | <!-- -->      |
-|:-------------:|:---------------:|:-------------:|
-| Row 1         | **Bold**        | Cell 3        |
-| Row 2         | *Italic*        | Cell 6        |
-| Row 3         | ~~Strike~~      | Cell 9        |
 
-
-Abril      : Inicio de Financimiento por parte de la DINV, Ibero.
-Abril-mayo : Conformación de equipo
-Mayo       : Análisis previo
-Junio      : Replanteamiento de plugin a aplicación web
 
 
 
