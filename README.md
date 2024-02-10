@@ -26,7 +26,7 @@ Actualmente en beta pública.
 - Despliegue de información
 - Exportación .CVS
 - Visualización
-- Exportación .png
+- Exportación .PNG
 
 # Funciones futuras (tasks)
 
