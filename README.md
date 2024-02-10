@@ -39,7 +39,7 @@ Fase 2
 
 # Seguridad
 - Biblio-retratos no almacena contenido proveniente de la base de datos del usuario en Zotero. Solo facilita la comunicación entre ambos. 
-- Los datos de correo electrónico, zotero User Id, y Zotero Private Key está protegidos por ley. Ver [Aviso de privacidad]
+- Los datos de correo electrónico, zotero User Id, y Zotero Private Key está protegidos por ley. Ver [Aviso de privacidad](https://ibero.mx/sites/all/themes/ibero/descargables/avisos-legales/2024/estudiantes-ingles.pdf)
 
 
 # Créditos
