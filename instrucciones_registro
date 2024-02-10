@@ -1,0 +1,22 @@
+## Obtener Zotero User-ID
+
+1.	Entrar a: https://www.zotero.org/settings/keys
+2.	El ID de seis cifras se desplegará en la primera línea antecedido de la frase: Your userID for use in API calls is XXXXXX
+3.	Copiar y pegar el número en la configuración de usuario de Biblio-retratos. Esta operación se realiza una sola vez
+
+# Obtener Zotero Private Key
+
+1.	Entrar a: https://www.zotero.org/settings/keys
+2.	Dar click en:  Create new private key 
+3.	Llene la informació como se muestra en la imagen y dé click en Save Key
+
+ 
+
+
+4.	Copiar y pegar el código alfanumérico generado en la configuración de usuario de Biblio-retratos. Esta operación se realiza una sola vez 
+
+
+
+
+
+
