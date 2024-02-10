@@ -80,15 +80,9 @@ Fase 2
 
 
 
+# Diseño y registro de imagen de marca
 
-
-(comunicarse con su base de datos bibliográficos remota y realizar consultas sobre 
-
-Proyecto generativo texto-imagen mediante IA. Se busca generar analíticas del manejador bibliográfico Zotero (de código abierto) y visualizarlos. Tales visualizaciones dan información sobre el trabajo profesional de lectura e influencias bibliográficas de académicos a lo largo del tiempo. Superponerlas con sus retratos personales mediante una galería de layouts supone una reflexión sobre la identidad académica. El proyecto tiene tres momentos con sus productos respectivos:  
-a) Generación de analíticas de bases de datos bibliográficas; 
-b) Generación de visualizaciones de tales analíticas; 
-c) Generación de biblio-retratos.
-El proyecto generará: 1) conocimiento en términos de desarrollo de código y escritura artículos sobre identidades académicas digitales. 2) Plugins que se pondrán al servicio de la comunidad usuaria de Zotero alrededor del mundo. 3) Un servicio basado en web donde usuarios de zotero podrán relacionar sus analíticas y visualizaciones con un retrato personal. 
+En proceso
 
 
 
