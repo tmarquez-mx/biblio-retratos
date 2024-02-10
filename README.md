@@ -45,7 +45,7 @@ Fase 2
 
 # Historia #
 
-### 2023 ###
+### 2023 : (re) diseño y desarrollo ###
 
 
 
@@ -61,9 +61,19 @@ Fase 2
 | Noviembre        |   | 
 | Diciembre        |  | 
 
+### 2024 : beta y producción ###
 
-
-
+| <!-- -->      | <!-- -->        | 
+|:-------------|:---------------|
+| Abril         | Aprobación financimiento  DINV, Ibero.       | 
+| Mayo         |  Formación de equipo de trabajo     |
+| Junio         | Análisis y rediseño: de plugin a aplicación web  | 
+| Julio        |   | 
+| Agosto         |   | 
+| Septiembre        |  | 
+| Octubre        |   | 
+| Noviembre        |   | 
+| Diciembre        |  | 
 
 
 
