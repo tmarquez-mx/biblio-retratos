@@ -1,4 +1,5 @@
 # Biblio-retratos. Visualizando identidades académicas 
+Una reinterpretación de Zotero como dispositivo para documentar nuestra identidad académica desde la literacidad. 
                          
 ## Descripción breve
 Proyecto generativo texto-imagen mediante IA. Se busca generar analíticas del manejador bibliográfico Zotero (de código abierto) y visualizarlos. Tales visualizaciones dan información sobre el trabajo profesional de lectura e influencias bibliográficas de académicos a lo largo del tiempo. Superponerlas con sus retratos personales mediante una galería de layouts supone una reflexión sobre la identidad académica. El proyecto tiene tres momentos con sus productos respectivos:  
