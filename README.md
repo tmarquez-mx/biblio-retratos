@@ -46,6 +46,16 @@ Fase 2
 [Teresa Márquez](https://socialesypoliticas.ibero.mx/TeresaMarquez/), investigadora / [Xavier Tortorelo](www.gtsf.com.mx), desarrollador.
 
 
+
+
+
+
+
+
+
+
+
+
 (comunicarse con su base de datos bibliográficos remota y realizar consultas sobre 
 
 Proyecto generativo texto-imagen mediante IA. Se busca generar analíticas del manejador bibliográfico Zotero (de código abierto) y visualizarlos. Tales visualizaciones dan información sobre el trabajo profesional de lectura e influencias bibliográficas de académicos a lo largo del tiempo. Superponerlas con sus retratos personales mediante una galería de layouts supone una reflexión sobre la identidad académica. El proyecto tiene tres momentos con sus productos respectivos:  
