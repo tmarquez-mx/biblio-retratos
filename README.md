@@ -82,6 +82,9 @@ Fase 2
 
 # Diseño y registro de imagen de marca
 En proceso
+<p align="right">
+
+
 
 # Agradecimientos
 - Dirección de Investigación y Posgrado, Ibero
@@ -92,10 +95,11 @@ En proceso
 - Zotero (forever! We ❤️ Z)
 
 
+![biblio-retratos_LOGOFIN](https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/bd9cc728-0fb4-45ef-a59e-0b07fae4fe9b)
 
 
-<p align="center">
-  <img width="484" alt="Captura de Pantalla 2022-06-17 a la(s) 1 39 34" src="https://user-images.githubusercontent.com/69394840/174241124-ad4216f9-5db3-4d9f-9353-782ed7f856ed.png"> 
+
+ 
 
 [^1]: Herramientas como Paper Machine y Zotero Voyant Export no han sido actualizadas a las últimas versiones de Zotero pero sus códigos están disponibles en Github. https://github.com/papermachines/papermachines; https://github.com/corajr/zotero-voyant-export/
 
