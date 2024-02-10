@@ -84,11 +84,12 @@ Fase 2
 En proceso
 
 # Agradecimientos
-Dirección de Investigación y Posgrado, Ibero
-Cómputo Académico, Ibero
-Andrés Tortolero, Ingeniería de Datos, Ibero
-Jorge Angel González, INIAT, Ibero
-Informática, Ibero
+- Dirección de Investigación y Posgrado, Ibero
+- Cómputo Académico, Ibero
+- Andrés Tortolero, Ingeniería de Datos, Ibero
+- Jorge Angel González, INIAT, Ibero
+- Informática, Ibero
+- Zotero (forever! We ❤️ Z)
 
 
 
