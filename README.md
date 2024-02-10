@@ -2,7 +2,9 @@
 Una reinterpretación de Zotero como dispositivo para documentar nuestra identidad académica desde la literacidad. 
                          
 ## Descripción 
-Biblio-retratos es una aplicación web en fase de beta pública (lanzamiento 03.24) que permite a usuarios de Zotero (un manejador bibliográfico de código abierto de uso muy extendido en la comunidad académica alrededor del mundo), obtener diferentes analíticas y visualizaciones sobre sus prácticas de literacidad. Esto es, sobre sus habilidades, trabajo y trayectoria en la recolección y procesamiento de fuentes bibliográficas. Actividades que además de consumir gran cantidad de tiempo a lo largo de nuestras carreras, reflejan nuestras pertenencias, disposiciones y distancias teórico-metodológicos conformando parte importante de nuestra identidad académica.  
+Biblio-retratos es una aplicación web que permite a usuarios de Zotero (un manejador bibliográfico de código abierto de uso muy extendido en la comunidad académica alrededor del mundo), obtener diferentes analíticas y visualizaciones sobre sus prácticas de literacidad. Esto es, sobre sus habilidades, trabajo y trayectoria en la recolección y procesamiento de fuentes bibliográficas. Actividades que además de consumir gran cantidad de tiempo a lo largo de nuestras carreras, reflejan nuestras pertenencias, disposiciones y distancias teórico-metodológicos conformando parte importante de nuestra identidad académica. Biblo-retratos (o ZOtero-BR) es un proyecto de Humanidades Digitales que en 2023 recibió financiamiento de la División de Investigación y Posgrado de la Universidad Iberoamericana Ciudad de México. 
+
+Actualmente la primera fase del proyecto se encuentra en beta pública.
 
 
 (comunicarse con su base de datos bibliográficos remota y realizar consultas sobre 
