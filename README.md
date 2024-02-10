@@ -16,7 +16,6 @@ Biblo-retratos (o Zotero-BR) es un proyecto de Humanidades Digitales. En 2023 re
 ## Palabras clave
 identidades académicas | analítica visual | prácticas académicas | literacidad | identidad digital |Zotero
 
-Actualmente la primera fase del proyecto se encuentra en beta pública.
 
 # Funciones habilitadas (tasks)
 Fase 1 (concluida y operativa). No requiere instalación. Operación vía web.
