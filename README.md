@@ -165,7 +165,7 @@ Intervalos de tiempo
 | Enero       | Cierre de primera fase, entrega y presentación pública preliminar | 
 | Febrero        | Gestión de servidor para beta pública. Evaluación de Dpto. de Informática. Adecuaciones de seguridad |
 | Marzo        | Lanzamiento beta pública. Divulgación en Forum Zotero y redes sociales (en preparación| 
-| Abril       | Presentacioens públicas (en preparación)  | 
+| Abril       | Presentaciones públicas (en preparación)  | 
 | Mayo        |Diseño y registro de marca (pendiente) | 
 | Junio        |Sistematización de comentarios y evaluaciones (pendiente) | 
 | Julio       | Propuestas para financiamiento de mejores y etapa 2 (pendiente)  | 
