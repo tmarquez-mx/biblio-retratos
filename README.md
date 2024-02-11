@@ -1,5 +1,5 @@
 # Biblio-retratos. Visualizando identidades académicas 
-*Una reinterpretación desde las Humanidades Digitales de Zotero como dispositivo para documentar identidades académicas desde la literacidad*
+*Una reinterpretación desde las Humanidades Digitales de Zotero como dispositivo para documentar identidades académicas desde la literacidad*.
                          
 ## Descripción narrativa
 Biblio-retratos es una aplicación web que permite a usuarios de Zotero (un manejador bibliográfico de código abierto de uso extendido en la comunidad académica alrededor del mundo), obtener diferentes analíticas y visualizaciones sobre sus prácticas de literacidad. Esto es, sobre sus habilidades, trabajo y trayectoria en la recolección y procesamiento de fuentes bibliográficas. Todas ellas actividades que además de consumir gran cantidad de tiempo a lo largo de una carrera académica, son prácticas que reflejan pertenencias, disposiciones y fronteras teórico-metodológicas, conformando parte importante de una identidad académica. 
@@ -10,8 +10,9 @@ Biblo-retratos (o Zotero-BR) es un proyecto de Humanidades Digitales. En 2023 re
 - Biblio-retratos (BR) comunica al usuario con su base de datos bibliográfica alojada por defecto en el servidor de Zotero mediante [Zotero Web API v3](https://www.zotero.org/support/dev/web_api/v3/start#zotero_web_api_v3). Si la base se encuentra en otro servidor, la comunicación no será posible. 
 - BR solicitará durante el resgitro **por única vez**  el *ID User* y el *Private Key* de la cuenta de usuario de Zotero [Ver Instrucciones](Registro_Instruciones.md)
 - Las consultas se realizan por tipo de elemento (i.e book. book section, jorunal, etc.)  o por subcolecciones. También puede consultarse a lo largo de toda la base si no selecciona ningún tipo de elemento ni subcolección.
-- Los campos que se puede solicitar visualizar son: autor, lugar de edición, año de edición, año de adición, palabra clave y tipo de elemento. Nota: Debido a que BR obtiene la información de la base de datos remota loss resultados de las consultas por palabras clave (*tags*), pueden no corresponder a las palabra clave que el usuario visualiza en su aplicación Zotero de escritorio. Para verificar y depurar sus palabras clave (*tags*), dirigirse a la versión web de Zotero.
-- Las consultas puede limitarse temporalmente. Las opcioes son: anual (cada año de registro desde el inicio de la base), por lustros, por décadas, cada X cantidad de años, o en un rango de años de interés. De no especificar ninguna opción, la consulta se hará en todos los registros.
+- Los campos que se puede solicitar visualizar son: autor, lugar de edición, año de edición, año de adición, palabra clave y tipo de elemento.
+   > Nota: Debido a que BR obtiene la información de la base de datos remota los resultados de las consultas por palabras clave (*tags*), pueden no corresponder a las palabra clave que el usuario visualiza en su aplicación Zotero de escritorio. Para verificar y depurar sus palabras clave (*tags*), dirigirse a la versión web de Zotero.
+- Las consultas puede limitarse temporalmente. Las posibilidades son: anual (cada año de registro desde el inicio de la base), por lustros, por décadas, cada X cantidad de años, o en un rango de años de interés. De no especificar ninguna opción, la consulta se hará en todos los registros.
 
 ## Palabras clave
 identidades académicas | analítica visual | literacidad | Humanidades Digitales | Zotero
@@ -19,7 +20,7 @@ identidades académicas | analítica visual | literacidad | Humanidades Digitale
 
 ## Funciones habilitadas (tasks)
 Fase 1 Concluida y operativa. No requiere instalación. Operación vía web.
-Actualmente en beta pública (03 2024)
+Actualmente en beta pública (03.2024)
 
 - Comunicación con Zotero
 - Consultas
@@ -42,7 +43,7 @@ Fase 2
 
 ## Guía de registro
 1. Entre al sitio de Biblio-retratos  XXXXXX.XXX
-2. La primera vez deberá obtener su usuario introduciendo dando click al botón **"Regístrate aquí"**
+2. La primera vez deberá obtener su usuario introduciendo dando click al botón **`Regístrate aquí`**
 <img width="380" alt="Captura de pantalla 2024-02-10 a la(s) 7 19 40 p m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/ddb04ce8-fd84-4321-b832-eb9b821b8c26">
 
     
