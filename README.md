@@ -42,10 +42,20 @@ Fase 2
 
 ## Guía de inicio
 1. Entre al sitio de Biblio-retratos  XXXXXX.XXX
-2. La primera vez deberá obtener su usuario introduciendo dando click al botón *"Regístrate aquí" 
-3. En la siguiente pantalla ingrese su mail y una contraseña de 10 caracteres, usando altas y bajas.
-4. La siguiente pantalla le solicitará por única vez el Zotero User ID y la Private Key. Para obtenerlos siga las siguientes instrucciones
-   <img width="189" alt="imagen" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/38d60baa-9c6a-4899-8306-92b529858bbc">
+2. La primera vez deberá obtener su usuario introduciendo dando click al botón *"Regístrate aquí"
+<img width="380" alt="Captura de pantalla 2024-02-10 a la(s) 7 19 40 p m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/ddb04ce8-fd84-4321-b832-eb9b821b8c26">
+
+    
+  
+4. En la siguiente pantalla ingrese su mail y una contraseña de 10 caracteres, usando altas y bajas.
+<img width="480" alt="Captura de pantalla 2024-02-10 a la(s) 7 21 35 p m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/09b3a791-2075-49fd-b4ef-c5210f607385">
+
+  
+
+6. La siguiente pantalla le solicitará por única vez el Zotero User ID y la Private Key. Para obtenerlos puede dirigirse a: https://www.zotero.org/settings/keys
+o siga las siguientes [instrucciones](Registro_Instruciones.md)
+   
+ <img width="480" alt="imagen" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/38d60baa-9c6a-4899-8306-92b529858bbc">
 
 
 
