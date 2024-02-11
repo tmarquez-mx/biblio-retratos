@@ -40,6 +40,29 @@ Fase 2
 - Biblio-retratos no almacena contenido proveniente de la base de datos del usuario en Zotero. Solo facilita la comunicación entre ambos. 
 - Los datos de correo electrónico, Zotero User Id y Zotero Private Key está protegidos por ley. Ver [Aviso de privacidad](https://ibero.mx/sites/all/themes/ibero/descargables/avisos-legales/2024/estudiantes-ingles.pdf)
 
+## Guía de inicio
+1. Entre al sitio de Biblio-retratos  XXXXXX.XXX
+2. La primera vez deberá obtener su usuario introduciendo dando click al botón *"Regístrate aquí" 
+3. En la siguiente pantalla ingrese su mail y una contraseña de 10 caracteres, usando altas y bajas.
+4. La siguiente pantalla le solicitará por única vez el Zotero User ID y la Private Key. Para obtenerlos siga las siguientes instrucciones
+   <img width="189" alt="imagen" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/38d60baa-9c6a-4899-8306-92b529858bbc">
+
+
+
+## Guía de uso
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Historia 
 
 ### 2023 : (re) diseño y desarrollo ###
