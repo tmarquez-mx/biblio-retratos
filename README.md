@@ -17,7 +17,7 @@ Biblo-retratos (o Zotero-BR) es un proyecto de Humanidades Digitales. En 2023 re
 identidades académicas | analítica visual | literacidad | Humanidades Digitales |Zotero
 
 
-# Funciones habilitadas (tasks)
+## Funciones habilitadas (tasks)
 Fase 1 Concluida y operativa. No requiere instalación. Operación vía web.
 Actualmente en beta pública (03 2024)
 
@@ -40,7 +40,7 @@ Fase 2
 - Biblio-retratos no almacena contenido proveniente de la base de datos del usuario en Zotero. Solo facilita la comunicación entre ambos. 
 - Los datos de correo electrónico, Zotero User Id y Zotero Private Key está protegidos por ley. Ver [Aviso de privacidad](https://ibero.mx/sites/all/themes/ibero/descargables/avisos-legales/2024/estudiantes-ingles.pdf)
 
-# Historia #
+## Historia 
 
 ### 2023 : (re) diseño y desarrollo ###
 
@@ -72,7 +72,7 @@ Fase 2
 
 
 
-# Diseño y registro de imagen de marca
+## Diseño y registro de imagen de marca
 En proceso
 Todos los derechos reservados a Universidad Iberoamerica, A.C.
 
