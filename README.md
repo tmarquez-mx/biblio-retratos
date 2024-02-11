@@ -127,13 +127,14 @@ Intervalos de tiempo
 
 
 
-  
+
+    * Los resultados de las consultas pueden exportarse a Excel
 (CONTINUARÁ....)
 
 ## Guía de visualización
-
-
-
+Los resultados de las consultas, esto es, las analíticas, permiten que Zotero-BR genere visualizaciones de las mismas como las de la imagen a continuación. 
+El ejemplo mostrado es una nube de palabras que grafica la fecuencia con que aparecen todos los autores registrados en la base bibliográfica completa. 
+﻿![imagen img width="480 ](https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/aa00b0d8-ab21-4fc3-81b7-bc289fb5e6db)
 
 
 
