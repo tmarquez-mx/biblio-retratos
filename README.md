@@ -64,6 +64,7 @@ Biblio-retratos le permitirá saber por ejemplo, qué autores ha registrado en Z
 También podrá saber en qué años fueron publicados los artículos que tiene registrados o de dónde fueron editados sus libros de consulta. Son muchas las combinaciones que puede realizar en sus consultas
 
 
+<img width="514" alt="Captura de pantalla 2024-02-10 a la(s) 9 10 28 p m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/d6f570ca-2b62-422e-9d95-017fc003c90e">
 
 
 
