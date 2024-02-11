@@ -10,11 +10,11 @@ Biblo-retratos (o Zotero-BR) es un proyecto de Humanidades Digitales. En 2023 re
 - Biblio-retratos (BR) comunica al usuario con su base de datos bibliográfica alojada por defecto en el servidor de Zotero mediante [Zotero Web API v3](https://www.zotero.org/support/dev/web_api/v3/start#zotero_web_api_v3). Si la base se encuentra en otro servidor, la comunicación no será posible. 
 - BR solicitará durante el resgitro **por única vez**  el *ID User* y el *Private Key* de la cuenta de usuario de Zotero [Ver Instrucciones](Registro_Instruciones.md)
 - Las consultas se realizan por tipo de elemento (i.e book. book section, jorunal, etc.)  o por subcolecciones. También puede consultarse a lo largo de toda la base si no selecciona ningún tipo de elemento ni subcolección.
-- Los campos que se puede solicitar visualizar son: autor, lugar de edición, año de edición, año de adición, palabra clave y tipo de elemento. Nota: Debido a que BR obtiene la información de la base de datos remota loss resultados de las consultas por palabras clave (tags), pueden no corresponder a las palabra clave que el usuario visualiza en su aplicación Zotero de escritorio. Para verificar y depurar sus palabras clave (Tags), dirigirse a la versión web de Zotero.
+- Los campos que se puede solicitar visualizar son: autor, lugar de edición, año de edición, año de adición, palabra clave y tipo de elemento. Nota: Debido a que BR obtiene la información de la base de datos remota loss resultados de las consultas por palabras clave (*tags*), pueden no corresponder a las palabra clave que el usuario visualiza en su aplicación Zotero de escritorio. Para verificar y depurar sus palabras clave (*tags*), dirigirse a la versión web de Zotero.
 - Las consultas puede limitarse temporalmente. Las opcioes son: anual (cada año de registro desde el inicio de la base), por lustros, por décadas, cada X cantidad de años, o en un rango de años de interés. De no especificar ninguna opción, la consulta se hará en todos los registros.
 
 ## Palabras clave
-identidades académicas | analítica visual | literacidad | Humanidades Digitales |Zotero
+identidades académicas | analítica visual | literacidad | Humanidades Digitales | Zotero
 
 
 ## Funciones habilitadas (tasks)
@@ -38,21 +38,21 @@ Fase 2
 
 ## Seguridad
 - Biblio-retratos no almacena contenido proveniente de la base de datos del usuario en Zotero. Solo facilita la comunicación entre ambos. 
-- Los datos de correo electrónico, Zotero User Id y Zotero Private Key está protegidos por ley. Ver [Aviso de privacidad](https://ibero.mx/sites/all/themes/ibero/descargables/avisos-legales/2024/estudiantes-ingles.pdf)
+- Los datos de correo electrónico, *Zotero User ID* y *Zotero Private Key* está protegidos por ley. Ver [Aviso de privacidad](https://ibero.mx/sites/all/themes/ibero/descargables/avisos-legales/2024/estudiantes-ingles.pdf)
 
-## Guía de inicio
+## Guía de registro
 1. Entre al sitio de Biblio-retratos  XXXXXX.XXX
-2. La primera vez deberá obtener su usuario introduciendo dando click al botón *"Regístrate aquí"
+2. La primera vez deberá obtener su usuario introduciendo dando click al botón **"Regístrate aquí"**
 <img width="380" alt="Captura de pantalla 2024-02-10 a la(s) 7 19 40 p m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/ddb04ce8-fd84-4321-b832-eb9b821b8c26">
 
     
   
-4. En la siguiente pantalla ingrese su mail y una contraseña de 10 caracteres, usando altas y bajas.
+3. En la siguiente pantalla ingrese su mail y una contraseña de 10 caracteres, usando altas y bajas.
 <img width="480" alt="Captura de pantalla 2024-02-10 a la(s) 7 21 35 p m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/09b3a791-2075-49fd-b4ef-c5210f607385">
 
   
 
-6. La siguiente pantalla le solicitará por única vez el Zotero User ID y la Private Key. Para obtenerlos puede dirigirse a: https://www.zotero.org/settings/keys
+4. La siguiente pantalla le solicitará por única vez el *Zotero User ID* y la *Private Key*. Para obtenerlos puede dirigirse a: https://www.zotero.org/settings/keys
 o siga las siguientes [instrucciones](Registro_Instruciones.md)
    
  <img width="480" alt="imagen" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/38d60baa-9c6a-4899-8306-92b529858bbc">
