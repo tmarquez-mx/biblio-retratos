@@ -60,6 +60,9 @@ o siga las siguientes [instrucciones](Registro_Instruciones.md)
 
 
 ## Guía de uso
+Biblio-retratos le permitirá saber por ejemplo, qué autores ha registrado en Zotero en determinado periodo de años (cuando realizaba alguna tesis, cuando trabaja ciertos temas, cuando impartía ciertos curso).  
+También podrá saber en qué años fueron publicados los artículos que tiene registrados o de dónde fueron editados sus libros de consulta. Son muchas las combinaciones que puede realizar en sus consultas
+
 
 
 
