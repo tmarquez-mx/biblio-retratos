@@ -28,7 +28,7 @@ Actualmente en beta pública (03 2024)
 - Visualización
 - Exportación .PNG
 
-# Funciones futuras (tasks)
+## Funciones futuras (tasks)
 
 Fase 2
 - Carga de imagen o fotografia (retrato)
@@ -36,18 +36,13 @@ Fase 2
 - Generación de biblio-retrato
 - Exportación
 
-# Seguridad
+## Seguridad
 - Biblio-retratos no almacena contenido proveniente de la base de datos del usuario en Zotero. Solo facilita la comunicación entre ambos. 
 - Los datos de correo electrónico, Zotero User Id y Zotero Private Key está protegidos por ley. Ver [Aviso de privacidad](https://ibero.mx/sites/all/themes/ibero/descargables/avisos-legales/2024/estudiantes-ingles.pdf)
-
-# Créditos
-[Teresa Márquez](https://socialesypoliticas.ibero.mx/TeresaMarquez/), investigadora / [Xavier Tortolero](https://www.gtsf.com.mx/), desarrollador.
 
 # Historia #
 
 ### 2023 : (re) diseño y desarrollo ###
-
-
 
 | <!-- -->      | <!-- -->        | 
 |:-------------|:---------------|
@@ -83,7 +78,11 @@ Todos los derechos reservados a Universidad Iberoamerica, A.C.
 
   ![biblio-retratos_LOGOFIN](https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/bd9cc728-0fb4-45ef-a59e-0b07fae4fe9b)
 
-# Agradecimientos
+## Créditos
+[Teresa Márquez](https://socialesypoliticas.ibero.mx/TeresaMarquez/), investigadora / [Xavier Tortolero](https://www.gtsf.com.mx/), desarrollador.
+
+
+## Agradecimientos
 - Dirección de Investigación y Posgrado, Ibero
 - Cómputo Académico, Ibero
 - Andrés Tortolero, Ingeniería de Datos, Ibero
@@ -158,10 +157,7 @@ Se trata de un punto crítico pues el biblio-retrato depende de las actualizacio
 ##  Experticias necesarias:
 1.	Conocimiento del código abierto de Zotero y programación en JavaScript y SQLite 
 2.	Manipulación de imagen digital y programación en HTML y Python
-## Equipo
-1. Teresa Marquez. Responsable
-2. UnX programadorX. 
-3. UnX diseñadorX Transmedia. 
+
 ## Influencias de proyectos HD
 Proyectos en HD: 
 1. “Intercambios oceánicos” https://oceanicexchanges.org/mx/  En la lectura del proyecto, se encontró la realización de un taller donde se generaron mapas a partir de bases de Zotero previamente depuradas con OpenRefine. Soy una usuario frecuente y entusiasta de Zotero y este proyecto me puso en la ruta de pensar en visualizaciones a partir del contenido de las bases bibliográficas y del uso que se les da, tales como nubes de frecuencias de autores más registrados, procedencia editorial de las fuentes, etiquetas más frecuentes, frecuencia de años de edición, etc.
