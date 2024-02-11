@@ -168,10 +168,9 @@ Todos los derechos reservados a Universidad Iberoamerica, A.C.
 - Jorge Angel González, INIAT, Ibero
 - Sonia Montes, Dpto. de Letras, Ibero
 - Dirección de Informática y Telecomunicaciones, Ibero
-- [Zotero](https://www.zotero.org/) (forever! We ❤️ Z)
+- [Zotero](https://www.zotero.org/) ( We ❤️ Z forever!)
 
 
 
-  
---- END ... SO FAR ---
+
  
