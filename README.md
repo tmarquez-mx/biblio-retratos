@@ -124,12 +124,13 @@ Todos los derechos reservados a Universidad Iberoamerica, A.C.
 - Cómputo Académico, Ibero
 - Andrés Tortolero, Ingeniería de Datos, Ibero
 - Jorge Angel González, INIAT, Ibero
+- Sonia Montes, Dpto. de Letras, Ibero
 - Informática, Ibero
 - Zotero (forever! We ❤️ Z)
 
 
 
-
+--- END ---
  
 
 [^1]: Herramientas como Paper Machine y Zotero Voyant Export no han sido actualizadas a las últimas versiones de Zotero pero sus códigos están disponibles en Github. https://github.com/papermachines/papermachines; https://github.com/corajr/zotero-voyant-export/
