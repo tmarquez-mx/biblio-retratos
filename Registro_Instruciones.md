@@ -12,8 +12,9 @@
 1. Entrar a: https://www.zotero.org/settings/keys
 2. Dar click en: *Create a new private key
 3. Llenar la información como se muestra en la imagen y al terminar dar click en  **Save key**
-![572272575902ae87360087ef857862de.png](./572272575902ae87360087ef857862de.png)
+<img width="280" alt="imagen" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/e0524e60-8967-4d13-afbc-2079d717f6f0">
+
 
 4. Copiar y pegar el código alfanumérico generado en la configuración de usuario de Biblio-retratos. Esta operación se realiza una única vez.
 
-   ![0e6965851edec0377da47778ddc173f0.png](./0e6965851edec0377da47778ddc173f0.png)
+<img width="426" alt="imagen" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/51779568-521f-4f21-a7d8-5a917fb13460">
