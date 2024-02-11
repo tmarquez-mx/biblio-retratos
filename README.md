@@ -47,12 +47,14 @@ Fase 2
 <img width="380" alt="Captura de pantalla 2024-02-10 a la(s) 7 19 40 p m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/ddb04ce8-fd84-4321-b832-eb9b821b8c26">
 
     
-  
+
+    
 3. En la siguiente pantalla ingrese su mail y una contraseña de 10 caracteres, usando altas y bajas.
 <img width="480" alt="Captura de pantalla 2024-02-10 a la(s) 7 21 35 p m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/09b3a791-2075-49fd-b4ef-c5210f607385">
 
   
 
+  
 4. La siguiente pantalla le solicitará por única vez el *Zotero User ID* y la *Private Key*. Para obtenerlos puede dirigirse a: https://www.zotero.org/settings/keys
 o siga las siguientes [instrucciones](Registro_Instruciones.md)
    
@@ -68,7 +70,10 @@ Al darle click deberá seguir los siguientes pasos para realizar una consulta:
  
  <img width="514" alt="Captura de pantalla 2024-02-10 a la(s) 9 10 28 p m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/d6f570ca-2b62-422e-9d95-017fc003c90e">
 
-###Paso 1. Filtros de consulta: ### 
+Paso 1  
+Filtros de consulta: 
+
+--- 
 Para iniciar una consulta, deberá elegir a través de un check en los recuadros del lado izquierdo, porqué **tipo de elemento** Y/O de **colección** hará la consulta
 
 <img width="430" alt="Captura de pantalla 2024-02-11 a la(s) 5 23 41 a m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/f9a0d49c-bf1d-419d-836c-441d3292b0d0">
@@ -76,11 +81,31 @@ Para iniciar una consulta, deberá elegir a través de un check en los recuadros
 
 
 
-Paso 1.  
-Filtros de consulta: 
+  
+Paso 2   
+Campos a visualizar
+
+---
+Aquí debe elegir mediante un check el campo por el que quiere hacer la búsqueda en el tipo de elemento o colección que seleccionó en el paso anterior
+
+<img width="430" alt="Captura de pantalla 2024-02-11 a la(s) 5 44 31 a m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/8401920d-119d-4877-bdc7-56fe1fcb51fb">
+
+
+Paso 3   
+Intervalos de tiempo
+
 ---
 
-(PENDIENTE)
+
+
+<img width="430" alt="Captura de pantalla 2024-02-11 a la(s) 5 48 35 a m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/9179c53c-b95d-483a-9234-28aa12cffd63">
+<img width="430" alt="Captura de pantalla 2024-02-11 a la(s) 5 53 05 a m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/07edd22c-d9d1-466b-8aae-67061a4ad230">
+
+
+
+
+  
+(CONTINUARÁ....)
 
 ## Guía de visualización
 
