@@ -4,18 +4,18 @@
 ## Esquema
 
 - [Descripción narrativa](https://github.com/tmarquez-mx/biblio-retrato#descripci%C3%B3n-narrativa)
-- Descrición operativa
-- Palabras clave
-- Funciones habilitadas (tasks)
-- Funciones futuras (tasks)
-- Desarrollo
-- Seguridad
-- Guía de registro
-- Guía de consultas
-- Guía de visualización
-- Diseño y registro de imagen de marca
-- Créditos
-- Agradecimientos
+- [Descrición operativa](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#descripci%C3%B3n-operativa)
+- [Palabras clave](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#palabras-clave)
+- [Funciones habilitadas](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#funciones-habilitadas-tasks)
+- [Funciones futuras](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#funciones-futuras-tasks) 
+- [Desarrollo](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#desarrollo)
+- [Seguridad](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#seguridad)
+- [Guía de registro](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#gu%C3%ADa-de-registro)
+- [Guía de consultas](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#gu%C3%ADa-de-consultas)
+- [Guía de visualización](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#gu%C3%ADa-de-visualizaci%C3%B3n)
+- [Diseño y registro de imagen de marca](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#dise%C3%B1o-y-registro-de-imagen-de-marca)
+- [Créditos](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#cr%C3%A9ditos)
+- [Agradecimientos](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#agradecimientos)
 
                          
 ## Descripción narrativa
