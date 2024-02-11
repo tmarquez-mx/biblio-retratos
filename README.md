@@ -65,7 +65,8 @@ También podrá saber en qué años fueron publicados los artículos que tiene r
 
 
 (PENDIENTE)
-<img width="514" alt="Captura de pantalla 2024-02-10 a la(s) 9 10 28 p m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/d6f570ca-2b62-422e-9d95-017fc003c90e">
+  
+ <img width="514" alt="Captura de pantalla 2024-02-10 a la(s) 9 10 28 p m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/d6f570ca-2b62-422e-9d95-017fc003c90e">
 
 
 
@@ -121,8 +122,8 @@ Todos los derechos reservados a Universidad Iberoamerica, A.C.
 
 
 ## Agradecimientos
-- Dirección de Investigación y Posgrado, Ibero
-- Cómputo Académico, Ibero
+- [Dirección de Investigación y Posgrado](https://investigacion.ibero.mx/), Ibero
+- [Coordinación de Cómputo Académico](https://www.sis.uia.mx/), Ibero
 - Andrés Tortolero, Ingeniería de Datos, Ibero
 - Jorge Angel González, INIAT, Ibero
 - Sonia Montes, Dpto. de Letras, Ibero
