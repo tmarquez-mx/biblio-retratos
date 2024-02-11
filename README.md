@@ -127,8 +127,8 @@ Todos los derechos reservados a Universidad Iberoamerica, A.C.
 - Andrés Tortolero, Ingeniería de Datos, Ibero
 - Jorge Angel González, INIAT, Ibero
 - Sonia Montes, Dpto. de Letras, Ibero
-- Informática, Ibero
-- Zotero (forever! We ❤️ Z)
+- Dirección de Informática y Telecomunicaciones, Ibero
+- [Zotero](https://www.zotero.org/) (forever! We ❤️ Z)
 
 
 
