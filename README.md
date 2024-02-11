@@ -3,7 +3,7 @@
 
 ## Esquema
 
-- Descripción narrativa
+- [Descripción narrativa](https://github.com/tmarquez-mx/biblio-retrato/blob/main/README.md#descripci%C3%B3n-narrativa)
 - Descrición operativa
 - Palabras clave
 - Funciones habilitadas (tasks)
