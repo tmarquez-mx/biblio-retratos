@@ -73,7 +73,7 @@ Fase 2
 
 
 ## Diseño y registro de imagen de marca
-En proceso
+En proceso  
 Todos los derechos reservados a Universidad Iberoamerica, A.C.
 
   ![biblio-retratos_LOGOFIN](https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/bd9cc728-0fb4-45ef-a59e-0b07fae4fe9b)
