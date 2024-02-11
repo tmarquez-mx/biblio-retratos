@@ -1,5 +1,22 @@
 # Biblio-retratos. Visualizando identidades académicas 
 *Una reinterpretación desde las Humanidades Digitales de Zotero como dispositivo para documentar identidades académicas desde la literacidad*.
+
+## Esquema
+
+- Descripción narrativa
+- Descrición operativa
+- Palabras clave
+- Funciones habilitadas (tasks)
+- Funciones futuras (tasks)
+- Desarrollo
+- Seguridad
+- Guía de registro
+- Guía de consultas
+- Guía de visualización
+- Diseño y registro de imagen de marca
+- Créditos
+- Agradecimientos
+
                          
 ## Descripción narrativa
 Biblio-retratos es una aplicación web que permite a usuarios de Zotero (un manejador bibliográfico de código abierto de uso extendido en la comunidad académica alrededor del mundo), obtener diferentes analíticas y visualizaciones sobre sus prácticas de literacidad. Esto es, sobre sus habilidades, trabajo y trayectoria en la recolección y procesamiento de fuentes bibliográficas. Todas ellas actividades que además de consumir gran cantidad de tiempo a lo largo de una carrera académica, son prácticas que reflejan pertenencias, disposiciones y fronteras teórico-metodológicas, conformando parte importante de una identidad académica. 
@@ -37,9 +54,15 @@ Fase 2
 - Generación de biblio-retrato
 - Exportación
 
+## Desarrollo
+- Frontend :  Framework Vue.js Javascript (open source)
+- Backend  :  Java 
+
 ## Seguridad
-- Biblio-retratos no almacena contenido proveniente de la base de datos del usuario en Zotero. Solo facilita la comunicación entre ambos. 
+- Biblio-retratos no almacena contenido proveniente de la base de datos del usuario en Zotero. Solo facilita la comunicación entre ambos.
 - Los datos de correo electrónico, *Zotero User ID* y *Zotero Private Key* está protegidos por ley. Ver [Aviso de privacidad](https://ibero.mx/sites/all/themes/ibero/descargables/avisos-legales/2024/estudiantes-ingles.pdf)
+- Estándar de contraseña segura y validación Catcha
+- Servidor Apache libre de vulnerabilidades
 
 ## Guía de registro
 1. Entre al sitio de Biblio-retratos  XXXXXX.XXX
@@ -142,12 +165,12 @@ Intervalos de tiempo
 | Enero       | Cierre de primera fase, entrega y presentación pública preliminar | 
 | Febrero        | Gestión de servidor para beta pública. Evaluación de Dpto. de Informática. Adecuaciones de seguridad |
 | Marzo        | Lanzamiento beta pública. Divulgación en Forum Zotero y redes sociales (en preparación| 
-| Abril       | Presentacioens pública (en preparación)  | 
+| Abril       | Presentacioens públicas (en preparación)  | 
 | Mayo        |Diseño y registro de marca (pendiente) | 
 | Junio        |Sistematización de comentarios y evaluaciones (pendiente) | 
 | Julio       | Propuestas para financiamiento de mejores y etapa 2 (pendiente)  | 
 | Agosto       |Artículo académico  | 
-| Septiembre   | ¿RIP? | 
+| Septiembre   |  | 
 
 
 
