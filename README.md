@@ -62,7 +62,7 @@ o siga las siguientes [instrucciones](Registro_Instruciones.md)
 
 
 
-## Guía de uso
+## Guía de consultas
 Biblio-retratos le permitirá obtener analíticas de los metadatos de su base bibliográfica. Podrá saber por ejemplo, qué autores registró con mayor frecuencia en Zotero en determinado intervalo de años (i.e. cuando realizaba alguna tesis, cuando trabaja ciertos metodologías, cuando impartía determinados cursos).  
 También podrá saber de qué años y lugares de edición proceden con mayor frecuencia sus fuentes. O qué subcolección de su biblioteca usa tipos de elementos o formatos más variados. 
 Al ingresar a BR, después de identificarse (no será necesario ingresar mail ni contraseña pues el sistema los conserva) aparecerá una pantalla donde indentifcará el botón **`Iniciar consulta`**   
