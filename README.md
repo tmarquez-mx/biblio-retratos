@@ -61,14 +61,28 @@ o siga las siguientes [instrucciones](Registro_Instruciones.md)
 
 
 ## Guía de uso
-Biblio-retratos le permitirá saber por ejemplo, qué autores ha registrado en Zotero en determinado periodo de años (cuando realizaba alguna tesis, cuando trabaja ciertos temas, cuando impartía ciertos curso).  
-También podrá saber en qué años fueron publicados los artículos que tiene registrados o de dónde fueron editados sus libros de consulta. Son muchas las combinaciones que puede realizar en sus consultas
-
-
-(PENDIENTE)
-  
+Biblio-retratos le permitirá obtener analíticas de los metadatos de su base bibliográfica. Podrá saber por ejemplo, qué autores registró con mayor frecuencia en Zotero en determinado intervalo de años (i.e. cuando realizaba alguna tesis, cuando trabaja ciertos metodologías, cuando impartía determinados cursos).  
+También podrá saber de qué años y lugares de edición proceden con mayor frecuencia sus fuentes. O qué subcolección de su biblioteca usa tipos de elementos o formatos más variados. 
+Al ingresar a BR, después de identificarse (no será necesario ingresar mail ni contraseña pues el sistema los conserva) aparecerá una pantalla donde indentifcará el botón **`Iniciar consulta`**   
+Al darle click deberá seguir los siguientes pasos para realizar una consulta:
+ 
  <img width="514" alt="Captura de pantalla 2024-02-10 a la(s) 9 10 28 p m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/d6f570ca-2b62-422e-9d95-017fc003c90e">
 
+###Paso 1. Filtros de consulta: ### 
+Para iniciar una consulta, deberá elegir a través de un check en los recuadros del lado izquierdo, porqué **tipo de elemento** Y/O de **colección** hará la consulta
+
+<img width="430" alt="Captura de pantalla 2024-02-11 a la(s) 5 23 41 a m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/f9a0d49c-bf1d-419d-836c-441d3292b0d0">
+<img width="430" alt="Captura de pantalla 2024-02-11 a la(s) 5 37 36 a m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/6e65c805-435c-4e67-93b4-1302df9f51ef">
+
+
+
+Paso 1.  
+Filtros de consulta: 
+---
+
+(PENDIENTE)
+
+## Guía de visualización
 
 
 
