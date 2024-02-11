@@ -137,8 +137,12 @@ El ejemplo mostrado es una nube de palabras que grafica la fecuencia con que apa
 ﻿![imagen img width="480 ](https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/aa00b0d8-ab21-4fc3-81b7-bc289fb5e6db)
 
 
+  
+* Las visualizaciones pueden bajarse en formato .PNG
 
+  
 
+![BR_gif](https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/3483fef7-1859-4091-a2da-4b4497de20c6)
 
 
 
