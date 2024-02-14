@@ -1,5 +1,5 @@
 # Biblio-retratos. Visualizando identidades académicas 
-*Una reinterpretación desde las Humanidades Digitales de Zotero como dispositivo para documentar identidades académicas desde la literacidad*.
+*Una reinterpretación desde las Humanidades Digitales de Zotero como artefacto* para documentar identidades académicas desde la literacidad**.
 
 ## Esquema
 
@@ -199,6 +199,7 @@ Todos los derechos reservados a Universidad Iberoamerica, A.C.
 - [Zotero](https://www.zotero.org/) ( We ❤️ Z forever!)
 
 
-
-
+---
+* Un artefacto es aquí un objeto material o digital interpretado. Esta idea está inserta en los estudios sociales de la tecnología por la cual los objetos tecnológicos son productos contingentes de la acción humana tanto física como interpretativa.
+  
  
