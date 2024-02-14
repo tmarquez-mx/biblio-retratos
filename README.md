@@ -1,5 +1,5 @@
 # Biblio-retratos. Visualizando identidades académicas 
-*Una reinterpretación desde las Humanidades Digitales de Zotero como artefacto* para documentar identidades académicas desde la literacidad**.
+*Una reinterpretación desde las Humanidades Digitales de Zotero como artefacto * para documentar identidades académicas desde la literacidad.
 
 ## Esquema
 
