@@ -128,6 +128,13 @@ Intervalos de tiempo
 
 
 
+
+Luego de configurar las consultas, dar click en el botón consultar
+<img width="96" alt="Captura de pantalla 2024-02-15 a la(s) 11 55 14 p m" src="https://github.com/tmarquez-mx/biblio-retratos/assets/69394840/ee3073cf-a94c-4561-9680-566f77765edd">
+
+la consulta puede tomar algún tiempo debido a que se está realizando de manera remota en sus datos alojados en el servidor de Zotero. La duración dependerá de la velocidad de conexión, el tamaño de la base de datos, el número de parámetros de la búsqueda, etc.
+
+
     * Los resultados de las consultas pueden exportarse a Excel
 (CONTINUARÁ....)
 
