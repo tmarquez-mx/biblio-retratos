@@ -1,5 +1,5 @@
 # Biblio-retratos. Visualizando identidades académicas 
-*Una reinterpretación desde las Humanidades Digitales de Zotero como artefacto * para documentar identidades académicas desde la literacidad.
+Una reinterpretación desde las Humanidades Digitales de Zotero como artefacto* para documentar identidades académicas desde la literacidad.
 
 ## Esquema
 
@@ -29,6 +29,7 @@ Biblo-retratos (o Zotero-BR) es un proyecto de Humanidades Digitales. En 2023 re
 - BR solicitará durante el resgitro **por única vez**  el *ID User* y el *Private Key* de la cuenta de usuario de Zotero [Ver Instrucciones](Registro_Instruciones.md)
 - Las consultas se realizan por tipo de elemento (i.e book. book section, jorunal, etc.)  o por subcolecciones. También puede consultarse a lo largo de toda la base si no selecciona ningún tipo de elemento ni subcolección.
 - Los campos que se puede solicitar visualizar son: autor, lugar de edición, año de edición, año de adición, palabra clave y tipo de elemento.
+- 
    > Nota: Debido a que BR obtiene la información de la base de datos remota los resultados de las consultas por palabras clave (*tags*), pueden no corresponder a las palabra clave que el usuario visualiza en su aplicación Zotero de escritorio. Para verificar y depurar sus palabras clave (*tags*), dirigirse a la versión web de Zotero.
 - Las consultas puede limitarse temporalmente. Las posibilidades son: anual (cada año de registro desde el inicio de la base), por lustros, por décadas, cada X cantidad de años, o en un rango de años de interés. De no especificar ninguna opción, la consulta se hará en todos los registros.
 
@@ -133,11 +134,13 @@ Intervalos de tiempo
 Luego de configurar las consultas, dar click en el botón
 <img width="96" alt="Captura de pantalla 2024-02-15 a la(s) 11 55 14 p m" src="https://github.com/tmarquez-mx/biblio-retratos/assets/69394840/ee3073cf-a94c-4561-9680-566f77765edd">
 
+  
 La consulta puede tomar algún tiempo debido a que se está realizando de manera remota en sus datos alojados en el servidor de Zotero. La duración dependerá de la velocidad de conexión, el tamaño de la base de datos, el número de parámetros de la búsqueda, etc.
 Los resultados se desplegarán en forma de tabla indicando frecuencias y pueden exportarse e Excel.
 
 <img width="430" alt="Captura de pantalla 2024-02-16 a la(s) 12 02 38 a m" src="https://github.com/tmarquez-mx/biblio-retratos/assets/69394840/dfa658e4-cbc2-417c-8bfe-1105e043c3b3">
 
+  
 ## Guía de visualización
 
 Para generar visualizaciones de las tablas o analíticas, solo debe dirigir el cursos hacia los 3 puntos que aparecen al lado izquierdo de los intervalos de tiempo y elegir la gráfica apropiada del menú que se desplegará.
@@ -147,20 +150,24 @@ La visualización resultante puede exportarse en formato .PNG
 
 
 
+  
 El ejemplo mostrado a continuación es una nube de palabras que grafica la fecuencia con que aparecen todos los autores registrados en una base bibliográfica completa. 
 ﻿![imagen img width="430 ](https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/aa00b0d8-ab21-4fc3-81b7-bc289fb5e6db)
 
 
   
 
-  
+
+    
 ### IMG: Demo del proceso de completo de consulta y visualización  
 
+  
 ![BR_gif](https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/3483fef7-1859-4091-a2da-4b4497de20c6)
 
 
 
 
+  
 ## Historia 
 
 ### 2023 : (re) diseño y desarrollo ###
