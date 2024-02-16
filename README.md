@@ -13,6 +13,7 @@
 - [Guía de registro](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#gu%C3%ADa-de-registro)
 - [Guía de consultas](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#gu%C3%ADa-de-consultas)
 - [Guía de visualización](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#gu%C3%ADa-de-visualizaci%C3%B3n)
+- Historia
 - [Diseño y registro de imagen de marca](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#dise%C3%B1o-y-registro-de-imagen-de-marca)
 - [Créditos](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#cr%C3%A9ditos)
 - [Agradecimientos](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#agradecimientos)
@@ -153,6 +154,7 @@ El ejemplo mostrado a continuación es una nube de palabras que grafica la fecue
   
 
   
+### IMG: Demo del proceso de completo de consulta y visualización  
 
 ![BR_gif](https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/3483fef7-1859-4091-a2da-4b4497de20c6)
 
