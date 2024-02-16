@@ -13,7 +13,7 @@
 - [Guía de registro](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#gu%C3%ADa-de-registro)
 - [Guía de consultas](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#gu%C3%ADa-de-consultas)
 - [Guía de visualización](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#gu%C3%ADa-de-visualizaci%C3%B3n)
-- Historia
+- [Historia](https://github.com/tmarquez-mx/biblio-retratos/blob/main/README.md#historia)
 - [Diseño y registro de imagen de marca](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#dise%C3%B1o-y-registro-de-imagen-de-marca)
 - [Créditos](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#cr%C3%A9ditos)
 - [Agradecimientos](https://github.com/tmarquez-mx/biblio-retrato?tab=readme-ov-file#agradecimientos)
