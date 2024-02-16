@@ -129,14 +129,25 @@ Intervalos de tiempo
 
 
 
-Luego de configurar las consultas, dar click en el botón consultar
+Luego de configurar las consultas, dar click en el botón
 <img width="96" alt="Captura de pantalla 2024-02-15 a la(s) 11 55 14 p m" src="https://github.com/tmarquez-mx/biblio-retratos/assets/69394840/ee3073cf-a94c-4561-9680-566f77765edd">
 
-la consulta puede tomar algún tiempo debido a que se está realizando de manera remota en sus datos alojados en el servidor de Zotero. La duración dependerá de la velocidad de conexión, el tamaño de la base de datos, el número de parámetros de la búsqueda, etc.
+La consulta puede tomar algún tiempo debido a que se está realizando de manera remota en sus datos alojados en el servidor de Zotero. La duración dependerá de la velocidad de conexión, el tamaño de la base de datos, el número de parámetros de la búsqueda, etc.
+Los resultados se desplegarán en forma de tabla indicando frecuencias y pueden exportarse e Excel.
+
+<img width="430" alt="Captura de pantalla 2024-02-16 a la(s) 12 02 38 a m" src="https://github.com/tmarquez-mx/biblio-retratos/assets/69394840/dfa658e4-cbc2-417c-8bfe-1105e043c3b3">
+
+## Guía de visualización
+
+Para generar visualizaciones de las tablas o analíticas, solo debe dirigir el cursos hacia los 3 puntos que aparecen al lado izquierdo de los intervalos de tiempo y elegir la gráfica apropiada del menú que se desplegará.
+La visualización resultante puede exportarse en formarto .PNG
+
+<img width="430" alt="Captura de pantalla 2024-02-16 a la(s) 12 05 06 a m" src="https://github.com/tmarquez-mx/biblio-retratos/assets/69394840/43ea6e02-62f0-43a7-84f2-6ea3300b0449">
 
 
-    * Los resultados de las consultas pueden exportarse a Excel
-(CONTINUARÁ....)
+
+
+  
 
 ## Guía de visualización
 Los resultados de las consultas, esto es, las analíticas, permiten que Zotero-BR genere visualizaciones de las mismas como las de la imagen a continuación. 
