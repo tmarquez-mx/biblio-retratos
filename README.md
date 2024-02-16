@@ -140,23 +140,17 @@ Los resultados se desplegarán en forma de tabla indicando frecuencias y pueden 
 ## Guía de visualización
 
 Para generar visualizaciones de las tablas o analíticas, solo debe dirigir el cursos hacia los 3 puntos que aparecen al lado izquierdo de los intervalos de tiempo y elegir la gráfica apropiada del menú que se desplegará.
-La visualización resultante puede exportarse en formarto .PNG
+La visualización resultante puede exportarse en formato .PNG
 
 <img width="430" alt="Captura de pantalla 2024-02-16 a la(s) 12 05 06 a m" src="https://github.com/tmarquez-mx/biblio-retratos/assets/69394840/43ea6e02-62f0-43a7-84f2-6ea3300b0449">
 
 
 
-
-  
-
-## Guía de visualización
-Los resultados de las consultas, esto es, las analíticas, permiten que Zotero-BR genere visualizaciones de las mismas como las de la imagen a continuación. 
-El ejemplo mostrado es una nube de palabras que grafica la fecuencia con que aparecen todos los autores registrados en la base bibliográfica completa. 
-﻿![imagen img width="480 ](https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/aa00b0d8-ab21-4fc3-81b7-bc289fb5e6db)
+El ejemplo mostrado a continuación es una nube de palabras que grafica la fecuencia con que aparecen todos los autores registrados en una base bibliográfica completa. 
+﻿![imagen img width="430 ](https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/aa00b0d8-ab21-4fc3-81b7-bc289fb5e6db)
 
 
   
-* Las visualizaciones pueden bajarse en formato .PNG
 
   
 
