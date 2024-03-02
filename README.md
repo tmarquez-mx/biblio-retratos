@@ -1,6 +1,8 @@
 # Biblio-retratos. Visualizando identidades académicas 
 Una reinterpretación desde las Humanidades Digitales de Zotero como artefacto* para documentar identidades académicas desde la literacidad.
 
+##### ** ENGLISH VERSION **
+
 ## Esquema
 
 - [Descripción narrativa](https://github.com/tmarquez-mx/biblio-retrato#descripci%C3%B3n-narrativa)
