@@ -28,7 +28,7 @@ Biblo-retratos (o Zotero-BR) es un proyecto de Humanidades Digitales. En 2023 re
 ## Descripción operativa
 
 - Biblio-retratos (BR) comunica al usuario con su base de datos bibliográfica alojada por defecto en el servidor de Zotero mediante [Zotero Web API v3](https://www.zotero.org/support/dev/web_api/v3/start#zotero_web_api_v3). Si la base se encuentra en otro servidor, la comunicación no será posible. 
-- BR solicitará durante el resgitro **por única vez**  el *ID User* y el *Private Key* de la cuenta de usuario de Zotero [Ver Instrucciones](Registro_Instruciones.md)
+- BR solicitará durante el registro **por única vez**  el *ID User* y el *Private Key* de la cuenta de usuario de Zotero [Ver Instrucciones](Registro_Instruciones.md)
 - Las consultas se realizan por tipo de elemento (i.e book. book section, jorunal, etc.)  o por subcolecciones. También puede consultarse a lo largo de toda la base si no selecciona ningún tipo de elemento ni subcolección.
 - Los campos que se puede solicitar visualizar son: autor, lugar de edición, año de edición, año de adición, palabra clave y tipo de elemento.
 - 
