@@ -141,25 +141,26 @@ Al ingresar a BR, después de identificarse (no será necesario ingresar correo 
 
 **Paso 3. Intervalos de tiempo.** Seleccione el intervalo temporal deseado.
 
-<!-- Conserve aquí las capturas de pantalla del paso 3 de su README actual -->
+<img width="430" alt="Captura de pantalla 2024-02-11 a la(s) 5 48 35 a m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/9179c53c-b95d-483a-9234-28aa12cffd63">
+<img width="430" alt="Captura de pantalla 2024-02-11 a la(s) 5 53 05 a m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/07edd22c-d9d1-466b-8aae-67061a4ad230">
 
 Luego de configurar la consulta, dé clic en el botón correspondiente. La consulta puede tomar algún tiempo, ya que se realiza de manera remota sobre sus datos alojados en el servidor de Zotero. La duración dependerá de la velocidad de conexión, el tamaño de la base de datos, el número de parámetros de búsqueda, entre otros factores. Los resultados se desplegarán en forma de tabla, indicando frecuencias, y pueden exportarse a Excel.
 
-<!-- Conserve aquí la captura de pantalla de resultados de su README actual -->
+<img width="96" alt="Captura de pantalla 2024-02-15 a la(s) 11 55 14 p m" src="https://github.com/tmarquez-mx/biblio-retratos/assets/69394840/ee3073cf-a94c-4561-9680-566f77765edd">
 
 ## Guía de visualización
 
 Para generar visualizaciones de las tablas o analíticas, solo debe dirigir el cursor hacia los tres puntos que aparecen al lado izquierdo de los intervalos de tiempo y elegir la gráfica apropiada en el menú que se desplegará. La visualización resultante puede exportarse en formato .PNG.
 
-<!-- Conserve aquí la captura de pantalla del menú de visualización de su README actual -->
+<img width="430" alt="Captura de pantalla 2024-02-16 a la(s) 12 05 06 a m" src="https://github.com/tmarquez-mx/biblio-retratos/assets/69394840/43ea6e02-62f0-43a7-84f2-6ea3300b0449">
 
 El ejemplo siguiente es una nube de palabras que grafica la frecuencia con que aparecen todos los autores registrados en una base bibliográfica completa.
 
-<!-- Conserve aquí la captura de pantalla de la nube de palabras de su README actual -->
+![imagen img width="430 ](https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/aa00b0d8-ab21-4fc3-81b7-bc289fb5e6db)
 
 ### Demostración del proceso completo de consulta y visualización
 
-<!-- Conserve aquí el GIF demostrativo de su README actual -->
+![BR_gif](https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/3483fef7-1859-4091-a2da-4b4497de20c6)
 
 ## Historia
 
@@ -194,7 +195,7 @@ El ejemplo siguiente es una nube de palabras que grafica la frecuencia con que a
 
 En proceso. Todos los derechos reservados a Universidad Iberoamericana, A.C.
 
-<!-- Conserve aquí el logotipo de su README actual -->
+  ![biblio-retratos_LOGOFIN](https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/bd9cc728-0fb4-45ef-a59e-0b07fae4fe9b)
 
 ## Cómo citar
 
@@ -231,180 +232,3 @@ Street, B. V. (1995). *Social literacies: Critical approaches to literacy in dev
 *Un artefacto es aquí un objeto material o digital interpretado. La idea proviene de los estudios sociales de la tecnología, según los cuales los objetos tecnológicos son productos contingentes de la acción humana, tanto física como interpretativa.*
 
 
-
-
-
-
-
-
-                         
-
-
-## Desarrollo
-- Frontend :  Framework Vue.js Javascript (open source)
-- Backend  :  Java 
-
-## Seguridad
-- Biblio-retratos no almacena contenido proveniente de la base de datos del usuario en Zotero. Solo facilita la comunicación entre ambos.
-- Los datos de correo electrónico, *Zotero User ID* y *Zotero Private Key* está protegidos por ley. Ver [Aviso de privacidad](https://ibero.mx/sites/all/themes/ibero/descargables/avisos-legales/2024/estudiantes-ingles.pdf)
-- Estándar de contraseña segura y validación Catcha
-- Servidor Apache libre de vulnerabilidades
-
-## Guía de registro
-1. Entre al sitio de Biblio-retratos (https://biblioretratos.ibero.mx/)
-2. La primera vez deberá obtener su usuario introduciendo dando click al botón **`Regístrate aquí`**
-<img width="380" alt="Captura de pantalla 2024-02-10 a la(s) 7 19 40 p m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/ddb04ce8-fd84-4321-b832-eb9b821b8c26">
-
-    
-
-    
-3. En la siguiente pantalla ingrese su mail y una contraseña de 10 caracteres, usando altas y bajas.
-<img width="480" alt="Captura de pantalla 2024-02-10 a la(s) 7 21 35 p m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/09b3a791-2075-49fd-b4ef-c5210f607385">
-
-  
-
-  
-4. La siguiente pantalla le solicitará por única vez el *Zotero User ID* y la *Private Key*. Para obtenerlos puede dirigirse a: https://www.zotero.org/settings/keys
-o siga las siguientes [instrucciones](Registro_Instruciones.md)
-   
- <img width="480" alt="imagen" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/38d60baa-9c6a-4899-8306-92b529858bbc">
-
-
-
-## Guía de consultas
-Biblio-retratos le permitirá obtener analíticas de los metadatos de su base bibliográfica. Podrá saber por ejemplo, qué autores registró con mayor frecuencia en Zotero en determinado intervalo de años (i.e. cuando realizaba alguna tesis, cuando trabaja ciertos metodologías, cuando impartía determinados cursos).  
-También podrá saber de qué años y lugares de edición proceden con mayor frecuencia sus fuentes. O qué subcolección de su biblioteca usa tipos de elementos o formatos más variados. 
-Al ingresar a BR, después de identificarse (no será necesario ingresar mail ni contraseña pues el sistema los conserva) aparecerá una pantalla donde indentifcará el botón **`Iniciar consulta`**   
-Al darle click deberá seguir los siguientes pasos para realizar una consulta:
- 
- <img width="514" alt="Captura de pantalla 2024-02-10 a la(s) 9 10 28 p m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/d6f570ca-2b62-422e-9d95-017fc003c90e">
-
-Paso 1  
-Filtros de consulta: 
-
---- 
-Para iniciar una consulta, deberá elegir a través de un check en los recuadros del lado izquierdo, porqué **tipo de elemento** Y/O de **colección** hará la consulta
-
-<img width="430" alt="Captura de pantalla 2024-02-11 a la(s) 5 23 41 a m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/f9a0d49c-bf1d-419d-836c-441d3292b0d0">
-<img width="430" alt="Captura de pantalla 2024-02-11 a la(s) 5 37 36 a m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/6e65c805-435c-4e67-93b4-1302df9f51ef">
-
-
-
-  
-Paso 2   
-Campos a visualizar
-
----
-Aquí debe elegir mediante un check el campo por el que quiere hacer la búsqueda en el tipo de elemento o colección que seleccionó en el paso anterior
-
-<img width="430" alt="Captura de pantalla 2024-02-11 a la(s) 5 44 31 a m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/8401920d-119d-4877-bdc7-56fe1fcb51fb">
-
-
-Paso 3   
-Intervalos de tiempo
-
----
-
-
-
-<img width="430" alt="Captura de pantalla 2024-02-11 a la(s) 5 48 35 a m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/9179c53c-b95d-483a-9234-28aa12cffd63">
-<img width="430" alt="Captura de pantalla 2024-02-11 a la(s) 5 53 05 a m" src="https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/07edd22c-d9d1-466b-8aae-67061a4ad230">
-
-
-
-
-
-
-Luego de configurar las consultas, dar click en el botón
-<img width="96" alt="Captura de pantalla 2024-02-15 a la(s) 11 55 14 p m" src="https://github.com/tmarquez-mx/biblio-retratos/assets/69394840/ee3073cf-a94c-4561-9680-566f77765edd">
-
-  
-La consulta puede tomar algún tiempo debido a que se está realizando de manera remota en sus datos alojados en el servidor de Zotero. La duración dependerá de la velocidad de conexión, el tamaño de la base de datos, el número de parámetros de la búsqueda, etc.
-Los resultados se desplegarán en forma de tabla indicando frecuencias y pueden exportarse e Excel.
-
-<img width="430" alt="Captura de pantalla 2024-02-16 a la(s) 12 02 38 a m" src="https://github.com/tmarquez-mx/biblio-retratos/assets/69394840/dfa658e4-cbc2-417c-8bfe-1105e043c3b3">
-
-  
-## Guía de visualización
-
-Para generar visualizaciones de las tablas o analíticas, solo debe dirigir el cursos hacia los 3 puntos que aparecen al lado izquierdo de los intervalos de tiempo y elegir la gráfica apropiada del menú que se desplegará.
-La visualización resultante puede exportarse en formato .PNG
-
-<img width="430" alt="Captura de pantalla 2024-02-16 a la(s) 12 05 06 a m" src="https://github.com/tmarquez-mx/biblio-retratos/assets/69394840/43ea6e02-62f0-43a7-84f2-6ea3300b0449">
-
-
-
-  
-El ejemplo mostrado a continuación es una nube de palabras que grafica la fecuencia con que aparecen todos los autores registrados en una base bibliográfica completa. 
-﻿![imagen img width="430 ](https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/aa00b0d8-ab21-4fc3-81b7-bc289fb5e6db)
-
-
-  
-
-
-    
-### IMG: Demo del proceso de completo de consulta y visualización  
-
-  
-![BR_gif](https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/3483fef7-1859-4091-a2da-4b4497de20c6)
-
-
-
-
-  
-## Historia 
-
-### 2023 : (re) diseño y desarrollo ###
-
-| <!-- -->      | <!-- -->        | 
-|:-------------|:---------------|
-| Abril         | Aprobación financimiento  DINVP, Ibero.       | 
-| Mayo         |  Formación de equipo de trabajo     |
-| Junio         | Análisis y rediseño: de plugin a aplicación web. Coordinaciones con Cómputo Académico  | 
-| Julio        | Catálogo de funciones. Gestiones logísticas y financieras | 
-| Agosto         | Pruebas de comunicación con base de datos   | 
-| Septiembre        | Diseño y desarrolo de consultas | 
-| Octubre        | Pruebas, evaluación y aprobación del módulo consultas| 
-| Noviembre        | Diseño y desarrollo de visualizaciones | 
-| Diciembre        | Pruebas, evaluación y aprobación del módulo visualización| 
-
-### 2024 : beta y producción ###
-
-| <!-- -->      | <!-- -->        | 
-|:-------------|:---------------|
-| Enero       | Cierre de primera fase, entrega y presentación pública preliminar | 
-| Febrero        | Gestión de servidor para beta pública. Evaluación de Dpto. de Informática. Adecuaciones de seguridad |
-| Marzo        | Lanzamiento beta pública. Divulgación en Forum Zotero y redes sociales (en preparación| 
-| Abril       | Presentaciones públicas (en preparación)  | 
-| Mayo        |Diseño y registro de marca (pendiente) | 
-| Junio        |Sistematización de comentarios y evaluaciones (pendiente) | 
-| Julio       | Propuestas para financiamiento de mejores y etapa 2 (pendiente)  | 
-| Agosto       |Artículo académico  | 
-| Septiembre   |  | 
-
-
-
-## Diseño y registro de imagen de marca
-En proceso  
-Todos los derechos reservados a Universidad Iberoamerica, A.C.
-
-  ![biblio-retratos_LOGOFIN](https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/bd9cc728-0fb4-45ef-a59e-0b07fae4fe9b)
-
-## Créditos
-[Teresa Márquez](https://socialesypoliticas.ibero.mx/TeresaMarquez/), investigadora / [Xavier Tortolero](https://www.gtsf.com.mx/), desarrollador.
-
-
-## Agradecimientos
-- [Dirección de Investigación y Posgrado](https://investigacion.ibero.mx/), Ibero
-- [Coordinación de Cómputo Académico](https://www.sis.uia.mx/), Ibero
-- Andrés Tortolero, Ingeniería de Datos, Ibero
-- Jorge Angel González, INIAT, Ibero
-- Sonia Montes, Dpto. de Letras, Ibero
-- Dirección de Informática y Telecomunicaciones, Ibero
-- [Zotero](https://www.zotero.org/) ( We ❤️ Z forever!)
-
-
----
-* Un artefacto es aquí un objeto material o digital interpretado. Esta idea está inserta en los estudios sociales de la tecnología por la cual los objetos tecnológicos son productos contingentes de la acción humana tanto física como interpretativa.
-  
- 
